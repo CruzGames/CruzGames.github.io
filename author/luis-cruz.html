@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>The Grigori Stones Dev Blog - Luis Cruz</title>
+        <link rel="stylesheet" href="https://game.grigoristones.com/blog/theme/css/main.css" />
+        <link href="https://game.grigoristones.com/blog/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="The Grigori Stones Dev Blog Atom Feed" />
+
+        <!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="https://game.grigoristones.com/blog/">The Grigori Stones Dev Blog </a></h1>
+                <nav><ul>
+                    <li><a href="https://game.grigoristones.com/blog/category/game-design.html">Game Design</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+
+            <aside id="featured" class="body">
+                <article>
+                    <h1 class="entry-title"><a href="https://game.grigoristones.com/blog/the-one-about-tutorials.html">The One About Tutorials</a></h1>
+<footer class="post-info">
+        <abbr class="published" title="2014-08-01T08:07:00">
+                Published: Fri 01 August 2014
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="https://game.grigoristones.com/blog/author/luis-cruz.html">Luis Cruz</a>
+        </address>
+<p>In <a href="https://game.grigoristones.com/blog/category/game-design.html">Game Design</a>. </p>
+<p>tags: <a href="https://game.grigoristones.com/blog/tag/tutorial.html">tutorial</a> <a href="https://game.grigoristones.com/blog/tag/howto.html">howto</a> <a href="https://game.grigoristones.com/blog/tag/ui.html">ui</a> </p>
+</footer><!-- /.post-info --><p>First of all, I would like to apologize for starting this Dev Blog so late.  I suppose I should have been writing it up all the while, but I hadn't really thought about it much until a friend of mine mentioned it to me.</p>
+<p>So, here it goes.</p>
+<p>For this first entry, I would really like to talk about how I did the tutorial.  I feel like it's fairly innovative.  Or, at the very least, I think it's not a technique that's used very often.</p>
+<p>I have always felt like standard tutorial levels in games were actually pretty terrible.  They tend to be a series of little, highlighted steps where you can't click anything except the one button they make you click.  I don't know about you, but I tend to just get into the "Click, click, click. Next, next, next, just get me finished with this so I can get to the game." mode.</p>
+<p>It's either that, or what they've recently come to start calling "Coach Marks" which is even worse.  That's where they overlay your interface with what looks like chalk boxes and arrows describing all the parts of the UI.  In that case, it implication is their interface is so complicated at the beginning that it needs descriptions of all the parts.  Which means they're so complicated you'll immediately forget them once you hit "Okay!"</p>
+<p>So what is the best way?  Glad you asked!</p>
+<p>Personally, there are a couple of things that make, in my opinion, the best onboarding to a game.</p>
+<p>1) Hide unnecessary interface elements early on.</p>
+<p>You don't really need to see a bunch of HUD elements meant to give you feedback for later parts in your game on level one.  Once your player is acclimated, then you can bring in the "Oh, it keeps track of something called Sheckles!  I wonder how I earn them..." UI elements.  Until then, they just serve as distractions.</p>
+<p>This way, you can passively guide your player into what needs to be interacted with without dropping them on a screen with a billion things that might need clicking for level 0.</p>
+<p>Once the player has discovered your core loop (because that's all you're showing them), then you can start adding complexity to that loop.</p>
+<p>[image here]</p>
+<p>An example in this case is when I am stripping out the ability to swivel the board, move tiles, place tiles, interact with your hand, etc. on the first level in The Grigori Stones.  This removes any ambiguity on what the players are supposed to be learning on this first level -- attacking and the concept of "free tiles".</p>
+<p>In this screenshot, the player is supposed to take their second action of the tutorial level by attacking a Zombie Rookie on the board.  This screen pops up if they try to place a tile from their hand instead of attacking with one on the board.</p>
+<p>2) Give just-in-time guidance according to the action they just took</p>
+<p>This one is about confirming their discoveries.  Once you've stripped away all of the UI except the very parts you will need to interact with "right now", you'll want to give them guidance once they've interacted with it.</p>
+<p>This can get a bit tricky if not done well.  You may leave your player with the feeling of helplessness and "I don't know what to do!"  You can combat this by having a timed window pop up if they sit there too long in fearful indecision. </p>
+<p>Additionally, it will be very important for these first early steps that the player doesn't fail.  The tutorial area is a safe zone and the player cannot fail.  It's simply to expose the core loop.  Once they've got that, then, you can add in and explicitly call out features that introduce your player to failure.</p>
+<p>[image here]</p>
+<p>As an example, in this screenshot, the player has successfully tapped their own Freemason Rookie tile and I'm telling the player what to do now that they've selected it.</p>
+<p>Note that I'm reminding the player about what constitutes a "Free Tile" at the same time.  A good rule of thumb is reminding them three times because, as we all know, players don't actually read.</p>
+<p>Whew!</p>
+<p>So, I think that's about it for today.  Again, sorry I haven't written anything up to this point and all of the development for the MVP is basically done.  I have many, many ideas for new tiles and features though, so I'm sure we'll chat again.</p>
+<p>This was fun!</p>
+<p>Talk to you later....</p>                </article>
+            </aside><!-- /#featured -->
+        <section id="extras" class="body">
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+                            <li><a href="https://game.grigoristones.com/blog/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
+
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>
