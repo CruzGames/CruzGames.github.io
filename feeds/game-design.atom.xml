@@ -6,21 +6,26 @@
 &lt;p&gt;It's either that, or what they've recently come to start calling "Coach Marks" which is even worse.  That's where they overlay your interface with what looks like chalk boxes and arrows describing all the parts of the UI.  In that case, it implication is their interface is so complicated at the beginning that it needs descriptions of all the parts.  Which means they're so complicated you'll immediately forget them once you hit "Okay!"&lt;/p&gt;
 &lt;p&gt;So what is the best way?  Glad you asked!&lt;/p&gt;
 &lt;p&gt;Personally, there are a couple of things that make, in my opinion, the best onboarding to a game.&lt;/p&gt;
-&lt;p&gt;1) Hide unnecessary interface elements early on.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; 1) Hide unnecessary interface elements early on. &lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;You don't really need to see a bunch of HUD elements meant to give you feedback for later parts in your game on level one.  Once your player is acclimated, then you can bring in the "Oh, it keeps track of something called Sheckles!  I wonder how I earn them..." UI elements.  Until then, they just serve as distractions.&lt;/p&gt;
 &lt;p&gt;This way, you can passively guide your player into what needs to be interacted with without dropping them on a screen with a billion things that might need clicking for level 0.&lt;/p&gt;
+&lt;p&gt;&lt;a href="/static/blogimages/blog_guided_ui_snap.png" data-rel="prettyPhoto"&gt;
+    &lt;img src="/static/blogimages/blog_guided_ui_snap.png" alt="" width="50%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Once the player has discovered your core loop (because that's all you're showing them), then you can start adding complexity to that loop.&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://localhost:8000/static/img/wax_stamp_logo_128.png" alt="" height="300" width="300" class="pull-right"&gt;&lt;/p&gt;
 &lt;p&gt;An example in this case is when I am stripping out the ability to swivel the board, move tiles, place tiles, interact with your hand, etc. on the first level in The Grigori Stones.  This removes any ambiguity on what the players are supposed to be learning on this first level -- attacking and the concept of "free tiles".&lt;/p&gt;
 &lt;p&gt;In this screenshot, the player is supposed to take their second action of the tutorial level by attacking a Zombie Rookie on the board.  This screen pops up if they try to place a tile from their hand instead of attacking with one on the board.&lt;/p&gt;
-&lt;p&gt;2) Give just-in-time guidance according to the action they just took&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; 2) Give just-in-time guidance according to the action they just took &lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This one is about confirming their discoveries.  Once you've stripped away all of the UI except the very parts you will need to interact with "right now", you'll want to give them guidance once they've interacted with it.&lt;/p&gt;
 &lt;p&gt;This can get a bit tricky if not done well.  You may leave your player with the feeling of helplessness and "I don't know what to do!"  You can combat this by having a timed window pop up if they sit there too long in fearful indecision. &lt;/p&gt;
+&lt;p&gt;&lt;a href="/static/blogimages/blog_tutorial_snap.png" data-rel="prettyPhoto"&gt;
+    &lt;img src="/static/blogimages/blog_tutorial_snap.png" alt="" width="50%" class="pull-left"&gt;
+&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Additionally, it will be very important for these first early steps that the player doesn't fail.  The tutorial area is a safe zone and the player cannot fail.  It's simply to expose the core loop.  Once they've got that, then, you can add in and explicitly call out features that introduce your player to failure.&lt;/p&gt;
-&lt;p&gt;[image here]&lt;/p&gt;
 &lt;p&gt;As an example, in this screenshot, the player has successfully tapped their own Freemason Rookie tile and I'm telling the player what to do now that they've selected it.&lt;/p&gt;
 &lt;p&gt;Note that I'm reminding the player about what constitutes a "Free Tile" at the same time.  A good rule of thumb is reminding them three times because, as we all know, players don't actually read.&lt;/p&gt;
 &lt;p&gt;Whew!&lt;/p&gt;
 &lt;p&gt;So, I think that's about it for today.  Again, sorry I haven't written anything up to this point and all of the development for the MVP is basically done.  I have many, many ideas for new tiles and features though, so I'm sure we'll chat again.&lt;/p&gt;
 &lt;p&gt;This was fun!&lt;/p&gt;
-&lt;p&gt;Talk to you later....&lt;/p&gt;</summary><category term="tutorial"></category><category term="howto"></category><category term="ui"></category></entry></feed>
+&lt;p&gt;Best,&lt;br/&gt;
+Luis&lt;/p&gt;</summary><category term="tutorial"></category><category term="howto"></category><category term="ui"></category></entry></feed>
