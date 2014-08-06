@@ -10,7 +10,7 @@
 &lt;p&gt;You don't really need to see a bunch of HUD elements meant to give you feedback for later parts in your game on level one.  Once your player is acclimated, then you can bring in the "Oh, it keeps track of something called Sheckles!  I wonder how I earn them..." UI elements.  Until then, they just serve as distractions.&lt;/p&gt;
 &lt;p&gt;This way, you can passively guide your player into what needs to be interacted with without dropping them on a screen with a billion things that might need clicking for level 0.&lt;/p&gt;
 &lt;p&gt;Once the player has discovered your core loop (because that's all you're showing them), then you can start adding complexity to that loop.&lt;/p&gt;
-&lt;p&gt;[image here]&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://localhost:8000/static/img/wax_stamp_logo_128.png" alt="" height="300" width="300" class="pull-right"&gt;&lt;/p&gt;
 &lt;p&gt;An example in this case is when I am stripping out the ability to swivel the board, move tiles, place tiles, interact with your hand, etc. on the first level in The Grigori Stones.  This removes any ambiguity on what the players are supposed to be learning on this first level -- attacking and the concept of "free tiles".&lt;/p&gt;
 &lt;p&gt;In this screenshot, the player is supposed to take their second action of the tutorial level by attacking a Zombie Rookie on the board.  This screen pops up if they try to place a tile from their hand instead of attacking with one on the board.&lt;/p&gt;
 &lt;p&gt;2) Give just-in-time guidance according to the action they just took&lt;/p&gt;
