@@ -1,0 +1,818 @@
+{
+    "H000-Flag": {
+        "abilities": [], 
+        "art": "tile_face_human_flag", 
+        "commonality": "legendary", 
+        "cost": 50, 
+        "faction": "human", 
+        "flavor": "'It comes at great expense, this training of our Seekers to battle all of the Supernatural Factions. But, it will make us stronger in the end.' -- Mankind's Last Best Hope, Freemason Library Journals", 
+        "name": "Freemason Flag", 
+        "power": 1, 
+        "tileId": "H000-Flag", 
+        "title": "Power Symbol"
+    }, 
+    "H001-Spy": {
+        "abilities": [
+            "espionage"
+        ], 
+        "art": "tile_face_human_spy", 
+        "commonality": "uncommon", 
+        "cost": 6, 
+        "faction": "human", 
+        "flavor": "'They bought that line? One might think we were dealing with monsters two bolts short of a rifle.' -- Katarina Grey, Freemason Spy", 
+        "name": "Freemason Spy", 
+        "power": 1, 
+        "tileId": "H001-Spy", 
+        "title": "Freemason"
+    }, 
+    "H002-Rookie": {
+        "abilities": [], 
+        "art": "tile_face_human_rookie", 
+        "commonality": "common", 
+        "cost": 2, 
+        "faction": "human", 
+        "flavor": "'But... but... he was just fighting for us!' -- Freemason Rookie after his first encounter with a Zombie Zero", 
+        "name": "Freemason Rookie", 
+        "power": 2, 
+        "tileId": "H002-Rookie", 
+        "title": "Freemason"
+    }, 
+    "H003-Sergeant": {
+        "abilities": [], 
+        "art": "tile_face_human_sergeant", 
+        "commonality": "uncommon", 
+        "cost": 8, 
+        "faction": "human", 
+        "flavor": "'Pragmatism is all important when you are fighting the horrors we do. You don't ask why your squadmate just grew fangs, you deal with it.' -- Sergeant Quinn Stetson", 
+        "name": "Freemason Sergeant", 
+        "power": 6, 
+        "tileId": "H003-Sergeant", 
+        "title": "Freemason Officer"
+    }, 
+    "H004-Soldier": {
+        "abilities": [], 
+        "art": "tile_face_human_soldier", 
+        "commonality": "common", 
+        "cost": 4, 
+        "faction": "human", 
+        "flavor": "'It takes a grizzled veteren to stand firm against the daily barrage of nightmares seeking your blood. We need these men and women.' -- Mankind's Last Best Hope, Freemason Library Journals", 
+        "name": "Freemason Soldier", 
+        "power": 4, 
+        "tileId": "H004-Soldier", 
+        "title": "Freemason"
+    }, 
+    "H005-Warrior": {
+        "abilities": [], 
+        "art": "tile_face_human_warrior", 
+        "commonality": "uncommon", 
+        "cost": 6, 
+        "faction": "human", 
+        "flavor": "'Once we Freemasons discover that a soldier has a specific talent for destroying monsters, we aim to equip them in order to take full advantage of that talent.' -- The Transcendence of Evil, Freemason Library Journals", 
+        "name": "Freemason Warrior", 
+        "power": 5, 
+        "tileId": "H005-Warrior", 
+        "title": "Freemason"
+    }, 
+    "H006-Elite": {
+        "abilities": [], 
+        "art": "tile_face_human_elite", 
+        "commonality": "rare", 
+        "cost": 13, 
+        "faction": "human", 
+        "flavor": "'When you hear the whirring and grinding, it's best to just step back and let me do my job, ma'am.' -- Jeremy Franks talking to an unidentified Freemason Rookie", 
+        "name": "Freemason E.L.I.T.E.", 
+        "power": 7, 
+        "tileId": "H006-Elite", 
+        "title": "Freemason Officer"
+    }, 
+    "H007-Phalanx": {
+        "abilities": [
+            "hardened"
+        ], 
+        "art": "tile_face_human_phalanx", 
+        "commonality": "rare", 
+        "cost": 9, 
+        "faction": "human", 
+        "flavor": "'Hearkening from the Spartan Phalanx of old, these soldiers lock together and often prevent some of the most obscene horrors from getting through to our side.' -- Mankind's Last Best Hope, Freemason Library Journals", 
+        "name": "Freemason Defender", 
+        "power": 3, 
+        "tileId": "H007-Phalanx", 
+        "title": "Freemason"
+    }, 
+    "H008-Commander": {
+        "abilities": [
+            "inspire"
+        ], 
+        "art": "tile_face_human_commander", 
+        "commonality": "rare", 
+        "cost": 11, 
+        "faction": "human", 
+        "flavor": "'If I can get an entire regiment to fight 5% more effective, on aggregate, that far outweighs any individual contribution I can make.' -- Commander Valorie Latorre", 
+        "name": "Freemason Commander", 
+        "power": 5, 
+        "tileId": "H008-Commander", 
+        "title": "Freemason Officer"
+    }, 
+    "H009-Biologist": {
+        "abilities": [
+            "cure"
+        ], 
+        "art": "tile_face_human_biologist", 
+        "commonality": "rare", 
+        "cost": 10, 
+        "faction": "human", 
+        "flavor": "'Curing the effects of Supernatural Transformation is seen not only as a major strategic goal, but also as a moral imperative.' -- The Mortal Supernatural Phenomenon, Freemason Library Journals", 
+        "name": "Freemason Biologist", 
+        "power": 1, 
+        "tileId": "H009-Biologist", 
+        "title": "Freemason"
+    }, 
+    "H010-Footpad": {
+        "abilities": [], 
+        "art": "tile_face_human_footpad", 
+        "commonality": "common", 
+        "cost": 3, 
+        "faction": "human", 
+        "flavor": "'Once you get over the shock and your feet under you, it's not that bad... Who am I kidding? It's still awful.' -- Freemason Footpad overheard talking to a Rookie", 
+        "name": "Freemason Footpad", 
+        "power": 3, 
+        "tileId": "H010-Footpad", 
+        "title": "Freemason"
+    }, 
+    "H011-Spiker": {
+        "abilities": [
+            "combo"
+        ], 
+        "art": "tile_face_human_spiker", 
+        "commonality": "rare", 
+        "cost": 11, 
+        "faction": "human", 
+        "flavor": "'Sometimes our troops need to become just as feral as our enemies in order to survive. We don't question that.' -- Freemason Officer speaking under condition of anonymity", 
+        "name": "Freemason Spiker", 
+        "power": 5, 
+        "tileId": "H011-Spiker", 
+        "title": "Freemason"
+    }, 
+    "H012-Spy": {
+        "abilities": [
+            "espionage"
+        ], 
+        "art": "tile_face_human_spy", 
+        "commonality": "rare", 
+        "cost": 11, 
+        "faction": "human", 
+        "flavor": "'They bought that line? One might think we were dealing with monsters two bolts short of a rifle.' -- Katarina Grey, Freemason Spy", 
+        "name": "Freemason Spy", 
+        "power": 5, 
+        "tileId": "H012-Spy", 
+        "title": "Freemason Officer"
+    }, 
+    "H013-Rookie": {
+        "abilities": [], 
+        "art": "tile_face_human_rookie", 
+        "commonality": "uncommon", 
+        "cost": 2, 
+        "faction": "human", 
+        "flavor": "'But... but... he was just fighting for us!' -- Freemason Rookie after his first encounter with a Zombie Zero", 
+        "name": "Freemason Rookie", 
+        "power": 3, 
+        "tileId": "H013-Rookie", 
+        "title": "Freemason"
+    }, 
+    "H014-Footpad": {
+        "abilities": [], 
+        "art": "tile_face_human_footpad", 
+        "commonality": "uncommon", 
+        "cost": 3, 
+        "faction": "human", 
+        "flavor": "'Once you get over the shock and your feet under you, it's not that bad... Who am I kidding? It's still awful.' -- Freemason Footpad overheard talking to a Rookie", 
+        "name": "Freemason Footpad", 
+        "power": 4, 
+        "tileId": "H014-Footpad", 
+        "title": "Freemason"
+    }, 
+    "H015-Soldier": {
+        "abilities": [], 
+        "art": "tile_face_human_soldier", 
+        "commonality": "uncommon", 
+        "cost": 5, 
+        "faction": "human", 
+        "flavor": "'It takes a grizzled veteren to stand firm against the daily barrage of nightmares seeking your blood. We need these men and women.' -- Mankind's Last Best Hope, Freemason Library Journals", 
+        "name": "Freemason Soldier", 
+        "power": 5, 
+        "tileId": "H015-Soldier", 
+        "title": "Freemason"
+    }, 
+    "V000-Flag": {
+        "abilities": [], 
+        "art": "tile_face_vampire_flag", 
+        "commonality": "legendary", 
+        "cost": 50, 
+        "faction": "vampire", 
+        "flavor": "'Stealth, deception, sleight-of-hand. These are all dangerous attributes of the Vampires.' -- Habits of the Undead, Freemason Library Journals", 
+        "name": "Vampire Flag", 
+        "power": 1, 
+        "tileId": "V000-Flag", 
+        "title": "Power Symbol"
+    }, 
+    "V001-Spy": {
+        "abilities": [
+            "espionage"
+        ], 
+        "art": "tile_face_vampire_spy", 
+        "commonality": "uncommon", 
+        "cost": 5, 
+        "faction": "vampire", 
+        "flavor": "'It was once said the Vampire Spy can blend into human life so well, one would swear they saw them the afternoon prior in the park, reading in the sunshine with friends.' -- Habits of the Undead, Freemason Library Journals", 
+        "name": "Vampire Spy", 
+        "power": 1, 
+        "tileId": "V001-Spy", 
+        "title": "Vampire"
+    }, 
+    "V002-Transporter": {
+        "abilities": [
+            "transport"
+        ], 
+        "art": "tile_face_vampire_transporter", 
+        "commonality": "rare", 
+        "cost": 7, 
+        "faction": "vampire", 
+        "flavor": "'It takes planning, resources, and the dedication of their mortal minions to enable slumbering, powerless during the day.' -- Blood and the Gift of Life, Freemason Library Journals", 
+        "name": "Vampire Transporter", 
+        "power": 3, 
+        "tileId": "V002-Transporter", 
+        "title": "Vampire"
+    }, 
+    "V003-Soldier": {
+        "abilities": [], 
+        "art": "tile_face_vampire_soldier", 
+        "commonality": "common", 
+        "cost": 4, 
+        "faction": "vampire", 
+        "flavor": "'Even an average Vampire soldier would lay waste to an entire infantry squad of the mighty United States Army.' -- The Transcendence of Evil, Freemason Library Journals", 
+        "name": "Vampire Soldier", 
+        "power": 4, 
+        "tileId": "V003-Soldier", 
+        "title": "Vampire"
+    }, 
+    "V004-Inquisitor": {
+        "abilities": [
+            "detain"
+        ], 
+        "art": "tile_face_vampire_inquisitor", 
+        "commonality": "rare", 
+        "cost": 11, 
+        "faction": "vampire", 
+        "flavor": "'Please... please, no! God Almighty above!' -- Anonymous prisoner", 
+        "name": "Vampire Inquisitor", 
+        "power": 5, 
+        "tileId": "V004-Inquisitor", 
+        "title": "Vampire Officer"
+    }, 
+    "V005-Footpad": {
+        "abilities": [], 
+        "art": "tile_face_vampire_footpad", 
+        "commonality": "common", 
+        "cost": 3, 
+        "faction": "vampire", 
+        "flavor": "'The amount of blood required to sustain a Vampire appears to gradually decrease as they age through the centuries.' -- Blood and the Gift of Life, Freemason Library Journals", 
+        "name": "Vampire Footpad", 
+        "power": 3, 
+        "tileId": "V005-Footpad", 
+        "title": "Vampire"
+    }, 
+    "V006-Rookie": {
+        "abilities": [], 
+        "art": "tile_face_vampire_rookie", 
+        "commonality": "common", 
+        "cost": 2, 
+        "faction": "vampire", 
+        "flavor": "'Destroying a newly made Vampire is one of our best chances at winning this Supernatural War.' -- The Transcendence of Evil, Freemason Library Journals", 
+        "name": "Vampire Rookie", 
+        "power": 2, 
+        "tileId": "V006-Rookie", 
+        "title": "Vampire"
+    }, 
+    "V007-Martyr": {
+        "abilities": [
+            "martyr"
+        ], 
+        "art": "tile_face_vampire_martyr", 
+        "commonality": "rare", 
+        "cost": 10, 
+        "faction": "vampire", 
+        "flavor": "'Vampires, by their nature are very selfish creatures. It is a rare thing indeed to find one willing to sacrifice for the greater good.' -- Habits of the Undead, Freemason Library Journals", 
+        "name": "Vampire Martyr", 
+        "power": 5, 
+        "tileId": "V007-Martyr", 
+        "title": "Vampire Officer"
+    }, 
+    "V008-Warrior": {
+        "abilities": [], 
+        "art": "tile_face_vampire_warrior", 
+        "commonality": "uncommon", 
+        "cost": 6, 
+        "faction": "vampire", 
+        "flavor": "'I swear I saw it! It ripped the stake out of its own heart and used it to kill Wilson, sir!' -- Eyewitness account from PFC Charles Robertson", 
+        "name": "Vampire Warrior", 
+        "power": 5, 
+        "tileId": "V008-Warrior", 
+        "title": "Vampire"
+    }, 
+    "V009-Sergeant": {
+        "abilities": [], 
+        "art": "tile_face_vampire_sergeant", 
+        "commonality": "uncommon", 
+        "cost": 8, 
+        "faction": "vampire", 
+        "flavor": "'We hunt them. It is what we have always done since the first of our kind was fathered by Lord Shemhazai.' -- Vampire Elder Antoni", 
+        "name": "Vampire Sergeant", 
+        "power": 6, 
+        "tileId": "V009-Sergeant", 
+        "title": "Vampire Officer"
+    }, 
+    "V010-Elite": {
+        "abilities": [], 
+        "art": "tile_face_vampire_elite", 
+        "commonality": "rare", 
+        "cost": 13, 
+        "faction": "vampire", 
+        "flavor": "'You know the difference between dogs and Werewolves? Dogs understand loyalty.' -- Evangeline, Vampire Elite, on exterminating Werewolves", 
+        "name": "Vampire Elite", 
+        "power": 7, 
+        "tileId": "V010-Elite", 
+        "title": "Vampire Officer"
+    }, 
+    "V011-Melkite": {
+        "abilities": [
+            "banish"
+        ], 
+        "art": "tile_face_vampire_melkite", 
+        "commonality": "rare", 
+        "cost": 9, 
+        "faction": "vampire", 
+        "flavor": "'They will tear your soul from your body with merely a look.' -- The Transcendence of Evil, Freemason Library Journals", 
+        "name": "Vampire Melkite", 
+        "power": 4, 
+        "tileId": "V011-Melkite", 
+        "title": "Vampire Officer"
+    }, 
+    "V012-Spy": {
+        "abilities": [
+            "espionage"
+        ], 
+        "art": "tile_face_vampire_spy", 
+        "commonality": "rare", 
+        "cost": 11, 
+        "faction": "vampire", 
+        "flavor": "'It was once said the Vampire Spy can blend into human life so well, one would swear they saw them the afternoon prior in the park, reading in the sunshine with friends.' -- Habits of the Undead, Freemason Library Journals", 
+        "name": "Vampire Spy", 
+        "power": 5, 
+        "tileId": "V012-Spy", 
+        "title": "Vampire"
+    }, 
+    "V013-Rookie": {
+        "abilities": [], 
+        "art": "tile_face_vampire_rookie", 
+        "commonality": "uncommon", 
+        "cost": 2, 
+        "faction": "vampire", 
+        "flavor": "'Destroying a newly made Vampire is one of our best chances at winning this Supernatural War.' -- The Transcendence of Evil, Freemason Library Journals", 
+        "name": "Vampire Rookie", 
+        "power": 3, 
+        "tileId": "V013-Rookie", 
+        "title": "Vampire"
+    }, 
+    "V014-Footpad": {
+        "abilities": [], 
+        "art": "tile_face_vampire_footpad", 
+        "commonality": "uncommon", 
+        "cost": 3, 
+        "faction": "vampire", 
+        "flavor": "'The amount of blood required to sustain a Vampire appears to gradually decrease as they age through the centuries.' -- Blood and the Gift of Life, Freemason Library Journals", 
+        "name": "Vampire Footpad", 
+        "power": 4, 
+        "tileId": "V014-Footpad", 
+        "title": "Vampire"
+    }, 
+    "V015-Soldier": {
+        "abilities": [], 
+        "art": "tile_face_vampire_soldier", 
+        "commonality": "uncommon", 
+        "cost": 5, 
+        "faction": "vampire", 
+        "flavor": "'Even an average Vampire soldier would lay waste to an entire infantry squad of the mighty United States Army.' -- The Transcendence of Evil, Freemason Library Journals", 
+        "name": "Vampire Soldier", 
+        "power": 5, 
+        "tileId": "V015-Soldier", 
+        "title": "Vampire"
+    }, 
+    "W000-Flag": {
+        "abilities": [], 
+        "art": "tile_face_werewolf_flag", 
+        "commonality": "legendary", 
+        "cost": 50, 
+        "faction": "werewolf", 
+        "flavor": "'The Werewolves were born from a union of brutal fury and unending rage. They are dangerous and always on the attack.' -- The Transcendence of Evil, Freemason Library Journals", 
+        "name": "Werewolf Flag", 
+        "power": 1, 
+        "tileId": "W000-Flag", 
+        "title": "Power Symbol"
+    }, 
+    "W001-Spy": {
+        "abilities": [
+            "espionage"
+        ], 
+        "art": "tile_face_werewolf_spy", 
+        "commonality": "uncommon", 
+        "cost": 5, 
+        "faction": "werewolf", 
+        "flavor": "'It is amazing to think that any wolf, some easily mistaken for large dogs, could potentially be a spy for the Supernatural.' -- The Mortal Supernatural Phenomenon, Freemason Library Journals", 
+        "name": "Werewolf Spy", 
+        "power": 1, 
+        "tileId": "W001-Spy", 
+        "title": "Werewolf"
+    }, 
+    "W002-Footpad": {
+        "abilities": [], 
+        "art": "tile_face_werewolf_footpad", 
+        "commonality": "common", 
+        "cost": 3, 
+        "faction": "werewolf", 
+        "flavor": "'One of the most helpful actions a jurisdiction can undertake in the Supernatural War is the extermination of all wolves.' -- The Transcendence of Evil, Freemason Library Journals", 
+        "name": "Werewolf Footpad", 
+        "power": 3, 
+        "tileId": "W002-Footpad", 
+        "title": "Werewolf"
+    }, 
+    "W003-Rookie": {
+        "abilities": [], 
+        "art": "tile_face_werewolf_rookie", 
+        "commonality": "common", 
+        "cost": 2, 
+        "faction": "werewolf", 
+        "flavor": "'We should marvel at the beauty of the spirit emerging from a chrysalis a freshly-turned Werewolf gets to enjoy.' -- The Art of Transformation, Freemason Library Journals", 
+        "name": "Werewolf Rookie", 
+        "power": 2, 
+        "tileId": "W003-Rookie", 
+        "title": "Werewolf"
+    }, 
+    "W004-Sergeant": {
+        "abilities": [], 
+        "art": "tile_face_werewolf_sergeant", 
+        "commonality": "uncommon", 
+        "cost": 8, 
+        "faction": "werewolf", 
+        "flavor": "'It would seem the Werewolf fighting units coordinate through a series of howls, growls, and barks.' -- The Mortal Supernatural Phenomenon, Freemason Library Journals", 
+        "name": "Werewolf Sergeant", 
+        "power": 6, 
+        "tileId": "W004-Sergeant", 
+        "title": "Werewolf Officer"
+    }, 
+    "W005-Soldier": {
+        "abilities": [], 
+        "art": "tile_face_werewolf_soldier", 
+        "commonality": "common", 
+        "cost": 4, 
+        "faction": "werewolf", 
+        "flavor": "'The ferocity was incredible. We didn't even see it before it had already cleared two tables with a single leap.' -- Survivor Eyewitness Account", 
+        "name": "Werewolf Soldier", 
+        "power": 4, 
+        "tileId": "W005-Soldier", 
+        "title": "Werewolf"
+    }, 
+    "W006-Lasher": {
+        "abilities": [
+            "lash"
+        ], 
+        "art": "tile_face_werewolf_lasher", 
+        "commonality": "rare", 
+        "cost": 8, 
+        "faction": "werewolf", 
+        "flavor": "'Whipping up the fury is more than just a turn of phrase.' -- Luc the Lasher just prior to a ferocious outburst of snarling laughter.", 
+        "name": "Werewolf Lasher", 
+        "power": 4, 
+        "tileId": "W006-Lasher", 
+        "title": "Werewolf Officer"
+    }, 
+    "W007-Moonshaman": {
+        "abilities": [
+            "inspire"
+        ], 
+        "art": "tile_face_werewolf_shaman", 
+        "commonality": "rare", 
+        "cost": 8, 
+        "faction": "werewolf", 
+        "flavor": "'The wisdom gained is unparalleled.' -- Wardancer on the phenomenon of 'Rage Harvesting' when applied to the transformation process.", 
+        "name": "Werewolf Shaman", 
+        "power": 3, 
+        "tileId": "W007-Moonshaman", 
+        "title": "Werewolf Officer"
+    }, 
+    "W008-Mesmerist": {
+        "abilities": [
+            "boost"
+        ], 
+        "art": "tile_face_werewolf_mesmerist", 
+        "commonality": "rare", 
+        "cost": 12, 
+        "faction": "werewolf", 
+        "flavor": "'It is a very ritualistic society circling around extremely carnal experiences and largely driven by the lifecycle of the moon.' -- The Mortal Supernatural Phenomenon, Freemason Library Journals", 
+        "name": "Werewolf Mesmerist", 
+        "power": 6, 
+        "tileId": "W008-Mesmerist", 
+        "title": "Werewolf Officer"
+    }, 
+    "W009-Breeder": {
+        "abilities": [
+            "bite"
+        ], 
+        "art": "tile_face_werewolf_breeder", 
+        "commonality": "rare", 
+        "cost": 12, 
+        "faction": "werewolf", 
+        "flavor": "'The luckiest of us are chosen for a warm, earth-scented embrace from the majestic apex of human evolution.' -- The Art of Transformation, Freemason Library Journals", 
+        "name": "Werewolf Breeder", 
+        "power": 4, 
+        "tileId": "W009-Breeder", 
+        "title": "Werewolf Officer"
+    }, 
+    "W010-Elite": {
+        "abilities": [], 
+        "art": "tile_face_werewolf_elite", 
+        "commonality": "rare", 
+        "cost": 13, 
+        "faction": "werewolf", 
+        "flavor": "'Be calm. Be patient. Be introspective. Then, when you unleash this unspeakably raw fury, the dichotomy... the contrast... will surprise your foe and give you even greater advantage.' -- Brutus on achieving victory", 
+        "name": "Werewolf Elite", 
+        "power": 7, 
+        "tileId": "W010-Elite", 
+        "title": "Werewolf Officer"
+    }, 
+    "W011-Warrior": {
+        "abilities": [], 
+        "art": "tile_face_werewolf_warrior", 
+        "commonality": "uncommon", 
+        "cost": 6, 
+        "faction": "werewolf", 
+        "flavor": "'The larger, more powerful Werewolves are the ones capable of taking the half-man form and the enhanced combat abilities associated with it.' -- The Transcendence of Evil, Freemason Library Journals", 
+        "name": "Werewolf Warrior", 
+        "power": 5, 
+        "tileId": "W011-Warrior", 
+        "title": "Werewolf"
+    }, 
+    "W012-Spy": {
+        "abilities": [
+            "espionage"
+        ], 
+        "art": "tile_face_werewolf_spy", 
+        "commonality": "rare", 
+        "cost": 11, 
+        "faction": "werewolf", 
+        "flavor": "'It is amazing to think that any wolf, some easily mistaken for large dogs, could potentially be a spy for the Supernatural.' -- The Mortal Supernatural Phenomenon, Freemason Library Journals", 
+        "name": "Werewolf Spy", 
+        "power": 5, 
+        "tileId": "W012-Spy", 
+        "title": "Werewolf"
+    }, 
+    "W013-Rookie": {
+        "abilities": [], 
+        "art": "tile_face_werewolf_rookie", 
+        "commonality": "uncommon", 
+        "cost": 2, 
+        "faction": "werewolf", 
+        "flavor": "'We should marvel at the beauty of the spirit emerging from a chrysalis a freshly-turned Werewolf gets to enjoy.' -- The Art of Transformation, Freemason Library Journals", 
+        "name": "Werewolf Rookie", 
+        "power": 3, 
+        "tileId": "W013-Rookie", 
+        "title": "Werewolf"
+    }, 
+    "W014-Footpad": {
+        "abilities": [], 
+        "art": "tile_face_werewolf_footpad", 
+        "commonality": "uncommon", 
+        "cost": 3, 
+        "faction": "werewolf", 
+        "flavor": "'One of the most helpful actions a jurisdiction can undertake in the Supernatural War is the extermination of all wolves.' -- The Transcendence of Evil, Freemason Library Journals", 
+        "name": "Werewolf Footpad", 
+        "power": 4, 
+        "tileId": "W014-Footpad", 
+        "title": "Werewolf"
+    }, 
+    "W015-Soldier": {
+        "abilities": [], 
+        "art": "tile_face_werewolf_soldier", 
+        "commonality": "uncommon", 
+        "cost": 5, 
+        "faction": "werewolf", 
+        "flavor": "'The ferocity was incredible. We didn't even see it before it had already cleared two tables with a single leap.' -- Survivor Eyewitness Account", 
+        "name": "Werewolf Soldier", 
+        "power": 5, 
+        "tileId": "W015-Soldier", 
+        "title": "Werewolf"
+    }, 
+    "Z000-Flag": {
+        "abilities": [], 
+        "art": "tile_face_zombie_flag", 
+        "commonality": "legendary", 
+        "cost": 50, 
+        "faction": "zombie", 
+        "flavor": "'Slow and relentless, a Zombies power comes not from their ability to perform at peak combat readiness, but their ability to take your peak performance away.' -- The Transcendence of Evil, Freemason Library Journals", 
+        "name": "Zombie Flag", 
+        "power": 1, 
+        "tileId": "Z000-Flag", 
+        "title": "Power Symbol"
+    }, 
+    "Z001-Lesionier": {
+        "abilities": [
+            "curse"
+        ], 
+        "art": "tile_face_zombie_lesionier", 
+        "commonality": "rare", 
+        "cost": 10, 
+        "faction": "zombie", 
+        "flavor": "'One touch from a Lesionier and your flesh will start to rot beginning to droop and sag until it tears open from its own weight.' -- Pillaging the Cemeteries, Freemason Library Journals", 
+        "name": "Zombie Lesionier", 
+        "power": 5, 
+        "tileId": "Z001-Lesionier", 
+        "title": "Zombie Officer"
+    }, 
+    "Z002-Zero": {
+        "abilities": [
+            "infect"
+        ], 
+        "art": "tile_face_zombie_zero", 
+        "commonality": "rare", 
+        "cost": 12, 
+        "faction": "zombie", 
+        "flavor": "'I will often stalk the streets in search of my next brother or sister.' -- George Winterclaw, Zombie Zero", 
+        "name": "Zombie Zero", 
+        "power": 4, 
+        "tileId": "Z002-Zero", 
+        "title": "Zombie Officer"
+    }, 
+    "Z003-Spy": {
+        "abilities": [
+            "espionage"
+        ], 
+        "art": "tile_face_zombie_spy", 
+        "commonality": "uncommon", 
+        "cost": 5, 
+        "faction": "zombie", 
+        "flavor": "'The definition of exactly how much of a Zombie is required to be in-tact in order for it to spy for its masters remains to be discovered.' -- The Transcendence of Evil, Freemason Library Journals", 
+        "name": "Zombie Spy", 
+        "power": 1, 
+        "tileId": "Z003-Spy", 
+        "title": "Zombie"
+    }, 
+    "Z004-Rookie": {
+        "abilities": [], 
+        "art": "tile_face_zombie_rookie", 
+        "commonality": "common", 
+        "cost": 2, 
+        "faction": "zombie", 
+        "flavor": "'Zombies can get to anyone and turn them. It could be your friend, your neighbor, your dog... even your goldfish!' -- Pillaging the Cemeteries, Freemason Library Journals", 
+        "name": "Zombie Rookie", 
+        "power": 2, 
+        "tileId": "Z004-Rookie", 
+        "title": "Zombie"
+    }, 
+    "Z005-Footpad": {
+        "abilities": [], 
+        "art": "tile_face_zombie_footpad", 
+        "commonality": "common", 
+        "cost": 3, 
+        "faction": "zombie", 
+        "flavor": "'Once we have our orders, we'll gather as many as we can for our strength... it comes from our numbers.' -- Zombie Footpad currently in captivity", 
+        "name": "Zombie Footpad", 
+        "power": 3, 
+        "tileId": "Z005-Footpad", 
+        "title": "Zombie"
+    }, 
+    "Z006-Nurse": {
+        "abilities": [
+            "illness"
+        ], 
+        "art": "tile_face_zombie_nurse", 
+        "commonality": "rare", 
+        "cost": 7, 
+        "faction": "zombie", 
+        "flavor": "'She came to us, but instead of dressing any injuries, she just started laying about them, sir. She was killing our wounded.' -- Corporal Christopher Heyworth, Seeker of the Light", 
+        "name": "Zombie Nurse", 
+        "power": 3, 
+        "tileId": "Z006-Nurse", 
+        "title": "Zombie"
+    }, 
+    "Z007-Soldier": {
+        "abilities": [], 
+        "art": "tile_face_zombie_soldier", 
+        "commonality": "common", 
+        "cost": 4, 
+        "faction": "zombie", 
+        "flavor": "'The more skilled in fighting a Zombie was in life, the more likely they are to retain some or all of that skill fighting for the dead.' -- Habits of the Undead, Freemason Library Journals", 
+        "name": "Zombie Soldier", 
+        "power": 4, 
+        "tileId": "Z007-Soldier", 
+        "title": "Zombie"
+    }, 
+    "Z008-Sergeant": {
+        "abilities": [], 
+        "art": "tile_face_zombie_sergeant", 
+        "commonality": "uncommon", 
+        "cost": 8, 
+        "faction": "zombie", 
+        "flavor": "'Their delicate and underdeveloped ridges are my favorite part.' -- Sergeant Sarah Skullbiter on devouring the brains of children", 
+        "name": "Zombie Sergeant", 
+        "power": 6, 
+        "tileId": "Z008-Sergeant", 
+        "title": "Zombie Officer"
+    }, 
+    "Z009-Warrior": {
+        "abilities": [], 
+        "art": "tile_face_zombie_warrior", 
+        "commonality": "uncommon", 
+        "cost": 6, 
+        "faction": "zombie", 
+        "flavor": "'They will not stop in their quest for destruction. All of their will is bent on it and they will only be stopped by the strongest of men.' -- The Transcendence of Evil, Freemason Library Journals", 
+        "name": "Zombie Warrior", 
+        "power": 5, 
+        "tileId": "Z009-Warrior", 
+        "title": "Zombie"
+    }, 
+    "Z010-Elite": {
+        "abilities": [], 
+        "art": "tile_face_zombie_elite", 
+        "commonality": "rare", 
+        "cost": 13, 
+        "faction": "zombie", 
+        "flavor": "'Raaawwrrrr!!!' -- Henry Crushknuckle, Zombie Elite", 
+        "name": "Zombie Elite", 
+        "power": 7, 
+        "tileId": "Z010-Elite", 
+        "title": "Zombie Officer"
+    }, 
+    "Z011-Torso": {
+        "abilities": [
+            "detain"
+        ], 
+        "art": "tile_face_zombie_torso", 
+        "commonality": "rare", 
+        "cost": 8, 
+        "faction": "zombie", 
+        "flavor": "'Even if a Zombie is cut down, lying on the ground, ichor spilling out, they can still reach up and strangle you with their intestines!' -- Pillaging the Cemeteries, Freemason Library Journals", 
+        "name": "Zombie Torso", 
+        "power": 4, 
+        "tileId": "Z011-Torso", 
+        "title": "Zombie Officer"
+    }, 
+    "Z012-Spy": {
+        "abilities": [
+            "espionage"
+        ], 
+        "art": "tile_face_zombie_spy", 
+        "commonality": "rare", 
+        "cost": 11, 
+        "faction": "zombie", 
+        "flavor": "'The definition of exactly how much of a Zombie is required to be in-tact in order for it to spy for its masters remains to be discovered.' -- The Transcendence of Evil, Freemason Library Journals", 
+        "name": "Zombie Spy", 
+        "power": 5, 
+        "tileId": "Z012-Spy", 
+        "title": "Zombie"
+    }, 
+    "Z013-Rookie": {
+        "abilities": [], 
+        "art": "tile_face_zombie_rookie", 
+        "commonality": "uncommon", 
+        "cost": 2, 
+        "faction": "zombie", 
+        "flavor": "'Zombies can get to anyone and turn them. It could be your friend, your neighbor, your dog... even your goldfish!' -- Pillaging the Cemeteries, Freemason Library Journals", 
+        "name": "Zombie Rookie", 
+        "power": 3, 
+        "tileId": "Z013-Rookie", 
+        "title": "Zombie"
+    }, 
+    "Z014-Footpad": {
+        "abilities": [], 
+        "art": "tile_face_zombie_footpad", 
+        "commonality": "uncommon", 
+        "cost": 3, 
+        "faction": "zombie", 
+        "flavor": "'Once we have our orders, we'll gather as many as we can for our strength... it comes from our numbers.' -- Zombie Footpad currently in captivity", 
+        "name": "Zombie Footpad", 
+        "power": 4, 
+        "tileId": "Z014-Footpad", 
+        "title": "Zombie"
+    }, 
+    "Z015-Soldier": {
+        "abilities": [], 
+        "art": "tile_face_zombie_soldier", 
+        "commonality": "uncommon", 
+        "cost": 5, 
+        "faction": "zombie", 
+        "flavor": "'The more skilled in fighting a Zombie was in life, the more likely they are to retain some or all of that skill fighting for the dead.' -- Habits of the Undead, Freemason Library Journals", 
+        "name": "Zombie Soldier", 
+        "power": 5, 
+        "tileId": "Z015-Soldier", 
+        "title": "Zombie"
+    }
+}

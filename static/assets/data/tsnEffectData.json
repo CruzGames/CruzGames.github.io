@@ -1,0 +1,50 @@
+{
+    "mod": {
+        "label": "Mutated", 
+        "desc": "The power of this tile has been modified while it remains on the board."
+    }, 
+    "modall": {
+        "label": "Mutated", 
+        "desc": "The power of the tiles in the group have been modified while they remain on the board."
+    }, 
+    "modtemp": {
+        "label": "Tweaked", 
+        "desc": "This tile's power has been temporarily modified for three turns."
+    }, 
+    "modtempall": {
+        "label": "Tweaked", 
+        "desc": "The tiles in this group have had their power temporarily modified for three turns."
+    }, 
+    "destroy": {
+        "label": "Destroyed", 
+        "desc": "This tile has been destroyed."
+    }, 
+    "swap": {
+        "label": "Swaped", 
+        "desc": "Trades places with another tile."
+    }, 
+    "bounce": {
+        "label": "Bounced", 
+        "desc": "This tile has been bounced back into the owner's hand."
+    }, 
+    "toggle": {
+        "label": "Detained", 
+        "desc": "This tile cannot attack, move, be targeted or perform any actions of any kind while detained."
+    }, 
+    "invulnerability": {
+        "label": "Hardened", 
+        "desc": "This tile cannot be damaged for three turns."
+    }, 
+    "control": {
+        "label": "Controlled", 
+        "desc": "This tile is controlled by another player for three turns."
+    }, 
+    "doubledamage": {
+        "label": "Doubled", 
+        "desc": "This tile is damaged first before the attack damage is again applied."
+    }, 
+    "transform": {
+        "label": "Transformed", 
+        "desc": "This tile has been transformed into a Rookie tile for the opposing faction."
+    }
+}

@@ -1,0 +1,311 @@
+{
+    "ACH00000": {
+        "desc": "You've started the Grigori Stones Core Campaign.", 
+        "displayName": "Campaign Started", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": []
+    }, 
+    "ACH00001": {
+        "desc": "You have completed the First scene of chapter \"Betrayal\" titled \"What's That Noise?\".", 
+        "displayName": "First Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": [
+            "H010-Footpad", 
+            "H002-Rookie", 
+            "Z004-Rookie", 
+            "H010-Footpad", 
+            "H002-Rookie", 
+            "H002-Rookie", 
+            "Z004-Rookie"
+        ]
+    }, 
+    "ACH00002": {
+        "desc": "You have completed the Second scene of chapter \"Betrayal\" titled \"There Are Zombies Everywhere!\".", 
+        "displayName": "Second Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": [
+            "Z005-Footpad", 
+            "Z005-Footpad", 
+            "Z005-Footpad", 
+            "H004-Soldier", 
+            "H004-Soldier"
+        ]
+    }, 
+    "ACH00003": {
+        "desc": "You have completed the Third scene of chapter \"Betrayal\" titled \"You Want To Go In Where?\".", 
+        "displayName": "Third Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": [
+            "Z007-Soldier", 
+            "Z007-Soldier", 
+            "Z007-Soldier", 
+            "H005-Warrior", 
+            "Z009-Warrior"
+        ]
+    }, 
+    "ACH00004": {
+        "desc": "You have completed the Fourth scene of chapter \"Betrayal\" titled \"The Catacombs Below\".", 
+        "displayName": "Fourth Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": [
+            "Z003-Spy", 
+            "Z008-Sergeant", 
+            "H003-Sergeant", 
+            "H001-Spy", 
+            "H001-Spy", 
+            "Z003-Spy"
+        ]
+    }, 
+    "ACH00005": {
+        "desc": "You have completed the Fifth scene of chapter \"Betrayal\" titled \"The Water Main\".", 
+        "displayName": "Fifth Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": [
+            "Z006-Nurse", 
+            "H007-Phalanx", 
+            "Z001-Lesionier"
+        ]
+    }, 
+    "ACH00006": {
+        "desc": "You have completed the Sixth scene of chapter \"Betrayal\" titled \"A Place of Transformation\".", 
+        "displayName": "Sixth Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": [
+            "Z002-Zero", 
+            "H009-Biologist"
+        ]
+    }, 
+    "ACH00007": {
+        "desc": "You have completed the Seventh scene of chapter \"Betrayal\" titled \"The Master Plan\".", 
+        "displayName": "Seventh Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": [
+            "H011-Spiker", 
+            "Z011-Torso"
+        ]
+    }, 
+    "ACH00008": {
+        "desc": "You have completed the Eighth scene of chapter \"Betrayal\" titled \"Under Cover of Flesh\".", 
+        "displayName": "Eighth Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": [
+            "H006-Elite", 
+            "Z010-Elite", 
+            "H008-Commander"
+        ]
+    }, 
+    "ACH00009": {
+        "desc": "You have completed the Ninth scene of chapter \"Retribution\" titled \"Ambush!\".", 
+        "displayName": "Ninth Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": [
+            "V008-Warrior", 
+            "V003-Soldier", 
+            "V003-Soldier", 
+            "V003-Soldier", 
+            "V006-Rookie"
+        ]
+    }, 
+    "ACH00010": {
+        "desc": "You have completed the Tenth scene of chapter \"Retribution\" titled \"The Tomb\".", 
+        "displayName": "Tenth Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": [
+            "V001-Spy", 
+            "V001-Spy"
+        ]
+    }, 
+    "ACH00011": {
+        "desc": "You have completed the Eleventh scene of chapter \"Retribution\" titled \"Contempt Breeds Fire\".", 
+        "displayName": "Eleventh Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": [
+            "V007-Martyr", 
+            "V009-Sergeant"
+        ]
+    }, 
+    "ACH00012": {
+        "desc": "You have completed the Twelfth scene of chapter \"Retribution\" titled \"Keeping the Streets Safe\".", 
+        "displayName": "Twelfth Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": [
+            "V002-Transporter"
+        ]
+    }, 
+    "ACH00013": {
+        "desc": "You have completed the Thirteenth scene of chapter \"Retribution\" titled \"The Stake Out\".", 
+        "displayName": "Thirteenth Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": [
+            "V010-Elite"
+        ]
+    }, 
+    "ACH00014": {
+        "desc": "You have completed the Fourteenth scene of chapter \"Retribution\" titled \"Closed for Renovation\".", 
+        "displayName": "Fourteenth Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": [
+            "V004-Inquisitor", 
+            "V005-Footpad", 
+            "V005-Footpad", 
+            "V005-Footpad", 
+            "V005-Footpad", 
+            "V011-Melkite"
+        ]
+    }, 
+    "ACH00015": {
+        "desc": "You have completed the Fifteenth scene of chapter \"Misunderstandings\" titled \"Tensions\".", 
+        "displayName": "Fifteenth Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": [
+            "W002-Footpad", 
+            "W002-Footpad", 
+            "W002-Footpad", 
+            "W005-Soldier", 
+            "W005-Soldier", 
+            "W003-Rookie", 
+            "W003-Rookie", 
+            "W003-Rookie", 
+            "W011-Warrior"
+        ]
+    }, 
+    "ACH00016": {
+        "desc": "You have completed the Sixteenth scene of chapter \"Misunderstandings\" titled \"The Non-Safe House\".", 
+        "displayName": "Sixteenth Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": [
+            "W006-Lasher"
+        ]
+    }, 
+    "ACH00017": {
+        "desc": "You have completed the Seventeenth scene of chapter \"Misunderstandings\" titled \"Divide and Conquer\".", 
+        "displayName": "Seventeenth Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": [
+            "W001-Spy", 
+            "W010-Elite", 
+            "W001-Spy"
+        ]
+    }, 
+    "ACH00018": {
+        "desc": "You have completed the Eighteenth scene of chapter \"Misunderstandings\" titled \"The Magic Lantern Show\".", 
+        "displayName": "Eighteenth Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": [
+            "W008-Mesmerist"
+        ]
+    }, 
+    "ACH00019": {
+        "desc": "You have completed the Nineteenth scene of chapter \"Misunderstandings\" titled \"Breeding at the Reservoir\".", 
+        "displayName": "Nineteenth Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": [
+            "W009-Breeder"
+        ]
+    }, 
+    "ACH00020": {
+        "desc": "You have completed the Twentieth scene of chapter \"Misunderstandings\" titled \"Into the Den\".", 
+        "displayName": "Twentieth Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": [
+            "W004-Sergeant", 
+            "W007-Moonshaman"
+        ]
+    }, 
+    "ACH00021": {
+        "desc": "You have completed the twenty-first scene of chapter \"The Hunt\" titled \"Vampire of the Opera\".", 
+        "displayName": "Twenty-First Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": []
+    }, 
+    "ACH00022": {
+        "desc": "You have completed the twenty-second scene of chapter \"The Hunt\" titled \"At the Movies\".", 
+        "displayName": "Twenty-Second Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": []
+    }, 
+    "ACH00023": {
+        "desc": "You have completed the twenty-third scene of chapter \"The Hunt\" titled \"On the Big Screen\".", 
+        "displayName": "Twenty-Third Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": []
+    }, 
+    "ACH00024": {
+        "desc": "You have completed the twenty-fourth scene of chapter \"The Hunt\" titled \"The World's a Stage\".", 
+        "displayName": "Twenty-Fourth Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": []
+    }, 
+    "ACH00025": {
+        "desc": "You have completed the twenty-fifth scene of chapter \"The Hunt\" titled \"Floor 23\".", 
+        "displayName": "Twenty-Fifth Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": []
+    }, 
+    "ACH00026": {
+        "desc": "You have completed the twenty-sixth scene of chapter \"Revelations\" titled \"Revelations\".", 
+        "displayName": "Twenty-Sixth Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": []
+    }, 
+    "ACH00027": {
+        "desc": "You have completed the twenty-seventh scene of chapter \"Revelations\" titled \"Winter Hill Cemetary\".", 
+        "displayName": "Twenty-Seventh Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": []
+    }, 
+    "ACH00028": {
+        "desc": "You have completed the twenty-eighth scene of chapter \"Revelations\" titled \"Winter Hill Mausoleum\".", 
+        "displayName": "Twenty-Eighth Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": []
+    }, 
+    "ACH00029": {
+        "desc": "You have completed the twenty-ninth scene of chapter \"Revelations\" titled \"Keepers of the Crypt\".", 
+        "displayName": "Twenty-Ninth Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": []
+    }, 
+    "ACH00030": {
+        "desc": "You have completed the thirtieth scene of chapter \"Revelations\" titled \"Return to the \"Grinder\"\".", 
+        "displayName": "Thirtieth Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": []
+    }, 
+    "ACH00031": {
+        "desc": "You have completed the thirty-first scene of chapter \"Siege\" titled \"The Siege\".", 
+        "displayName": "Thirty-First Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": []
+    }, 
+    "ACH00032": {
+        "desc": "You have completed the thirty-second scene of chapter \"Siege\" titled \"Eastern Patrol\".", 
+        "displayName": "Thirty-Second Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": []
+    }, 
+    "ACH00033": {
+        "desc": "You have completed the thirty-third scene of chapter \"Siege\" titled \"Western Patrol\".", 
+        "displayName": "Thirty-Third Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": []
+    }, 
+    "ACH00034": {
+        "desc": "You have completed the thirty-fourth scene of chapter \"Siege\" titled \"Ingressions\".", 
+        "displayName": "Thirty-Fourth Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": []
+    }, 
+    "ACH00035": {
+        "desc": "You have completed the thirty-fifth scene of chapter \"Siege\" titled \"Den of Deceit\".", 
+        "displayName": "Thirty-Fifth Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": []
+    }, 
+    "ACH00036": {
+        "desc": "You have completed the thirty-sixth scene of chapter \"Siege\" titled \"Epilogue\".", 
+        "displayName": "Thirty-Sixth Scene Complete", 
+        "icon": "wax_stamp_logo_128", 
+        "tiles": []
+    }
+}

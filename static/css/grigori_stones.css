@@ -1,0 +1,194 @@
+
+.capitalize {text-transform:capitalize;} 
+.commonTile {color:gray !important;}
+.uncommonTile {color:green !important;}
+.rareTile {color:blue !important;}
+.epicTile {color:purple !important;}
+.legendaryTile {color:orange !important;}
+
+.vampireColor {color:#E8E8E8 !important;}
+.zombieColor {color:#DCEDC5 !important;}
+.werewolfColor {color:#DF621C !important;}
+.humanColor {color:#E1BFA6 !important;}
+.vampireColorDark {color:#7b2529 !important;}
+.zombieColorDark {color:#3d7201 !important;}
+.werewolfColorDark {color:#604e39 !important;}
+.humanColorDark {color:#3a5356 !important;}
+
+.vampireTexture {background: transparent url("/static/img/tile_texture_vampire.png") no-repeat left top;}
+.zombieTexture {background: transparent url("/static/img/tile_texture_zombie.png") no-repeat left top;}
+.werewolfTexture {background: transparent url("/static/img/tile_texture_werewolf.png") no-repeat left top;}
+.humanTexture {background: transparent url("/static/img/tile_texture_freemason.png") no-repeat left top;}
+
+.tileDetail {
+	position: relative;
+	width:510px;
+	height:711px;
+	background: transparent url("/static/img/tile_detail_background_web.png") no-repeat right top;
+}
+
+.tileDetail .tileImage {
+	position: absolute;
+	top: 13px;
+	left: 13px;
+}
+
+.tileDetail .tileImageFrame {
+	position: absolute;
+	top: 13px;
+	left: 13px;
+}
+
+.tileDetail .tileImageGlass {
+	position: absolute;
+	top: 13px;
+	left: 13px;
+}
+
+.tileDetail .tilePower {
+	font-size: 60px;
+	font-weight: bold;
+	left: 175px;
+	position: absolute;
+	text-align: center;
+	top: 200px;
+	width: 85px;
+}
+
+.tileDetail .tileName {
+	color: #222222;
+	font-size: 12px;
+	left: 320px;
+	position: absolute;
+	text-align: center;
+	top: 34px;
+	width: 130px;	
+}
+
+.tileDetail .tileTitle {
+	font-size: 12px;
+	color: #444444;
+	left: 320px;
+	position: absolute;
+	text-align: center;
+	top: 54px;
+	width: 130px;
+	font-weight:bold;
+}
+
+.tileDetail .tileCost {
+	font-size: 22px;
+	color: #8C6441;
+	left: 0px;
+	width: 510px;
+	position: absolute;
+	text-align: center;
+	top: 360px;
+}
+
+.tileDetail .tileAbility {
+	font-size: 16px;
+	color: #222222;
+	top: 400px;
+	left: 65px;
+	width: 360px;
+	position: absolute;
+}
+
+.tileDetail .tileFlavor {
+	font-size: 14px;
+	color: #8C6441;
+	left: 65px;
+	width: 360px;
+	position: absolute;
+	bottom: 100px;
+	font-style: italic;
+}
+
+.tileDetail .factionBtn {
+	top: 150px;
+	left: 305px;
+	width: 135px;
+	position: absolute;
+}
+
+.tileDetail .randomBtn {
+	top: 200px;
+	left: 305px;
+	width: 135px;
+	position: absolute;
+}
+
+
+dl.tileStats { 
+	padding: 0.5em; 
+} 
+.tileStats dt { 
+	float: left; 
+	clear: left; 
+	width: 100px; 
+	text-align: right; 
+	font-weight: bold;
+} 
+.tileStats dt:after { 
+	content: ":"; 
+} 
+.tileStats dd { 
+	margin: 0 0 0 110px; 
+	padding: 0 0 0.5em 0; 
+}
+
+.tileHolder {
+  width: 150px;
+  height: 180px;
+  position:relative;
+}
+
+.tileHolder img {
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+
+.tileHolder .tileName {
+	position:absolute;
+	left:14px;
+	top:132px;
+	width: 100px;
+	text-align: center;
+	font-size: 14px;
+	line-height: 15px;
+}
+
+.tileHolder .tilePower {
+	position:absolute;
+	left:78px;
+	top:95px;
+	width: 45px;
+	text-align: center;
+	font-size: 28px;
+}
+
+.loreParchmentTop {
+	width:800px;
+	height:102px;
+	background: transparent url("/static/img/lore_parchment_top.png") no-repeat left top;
+}
+.loreParchmentBottom {
+	width:800px;
+	height:105px;
+	background: transparent url("/static/img/lore_parchment_bottom.png") no-repeat left top;
+}
+.loreParchmentMiddle {
+	width:800px;
+	height:1088px;
+	background: transparent url("/static/img/lore_parchment_middle.png") repeat-y left top;
+}
+.loreText {
+	font-size: 18px;
+	padding: 0px 80px;
+	line-height: 40px;;
+	color: #462316;
+}
+
+

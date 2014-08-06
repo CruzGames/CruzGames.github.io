@@ -1,0 +1,227 @@
+{
+    "banish": {
+        "desc": "Place any target tile in its owner's hand.  This tile stays on the battlefield.", 
+        "effect": "bounce", 
+        "label": "Banish", 
+        "pickUp": false, 
+        "target": [
+            "any"
+        ], 
+        "trigger": "", 
+        "triggerTarget": [
+            ""
+        ], 
+        "value": 0
+    }, 
+    "bite": {
+        "desc": "Target tile is infected and becomes a Werewolf Rookie while on the battlefield. This tile goes into its owner's hand.", 
+        "effect": "transform", 
+        "label": "Bite", 
+        "pickUp": true, 
+        "target": [
+            "any"
+        ], 
+        "trigger": "", 
+        "triggerTarget": [
+            ""
+        ], 
+        "value": 1
+    }, 
+    "boost": {
+        "desc": "+1 Power to any target tile while on the battlefield. This tile goes into its owner's hand.", 
+        "effect": "mod", 
+        "label": "Boost", 
+        "pickUp": true, 
+        "target": [
+            "any"
+        ], 
+        "trigger": "", 
+        "triggerTarget": [
+            ""
+        ], 
+        "value": 1
+    }, 
+    "combo": {
+        "desc": "This tile does damage equal to its power to a target tile and then attacks the same tile. This tile goes into its owner's hand.", 
+        "effect": "doubledamage", 
+        "label": "Combo", 
+        "pickUp": true, 
+        "target": [
+            "any"
+        ], 
+        "trigger": "", 
+        "triggerTarget": [
+            ""
+        ], 
+        "value": 1
+    }, 
+    "cure": {
+        "desc": "Target tile is cured and becomes a Human Rookie while on the battlefield. This tile goes into its owner's hand.", 
+        "effect": "transform", 
+        "label": "Cure", 
+        "pickUp": true, 
+        "target": [
+            "any"
+        ], 
+        "trigger": "", 
+        "triggerTarget": [
+            ""
+        ], 
+        "value": 1
+    }, 
+    "curse": {
+        "desc": "-1 Power to any target tile while on the battlefield. This tile goes into its owner's hand.", 
+        "effect": "mod", 
+        "label": "Curse", 
+        "pickUp": true, 
+        "target": [
+            "any"
+        ], 
+        "trigger": "", 
+        "triggerTarget": [
+            ""
+        ], 
+        "value": -1
+    }, 
+    "detain": {
+        "desc": "Target tile is detained for the next 4 turns.  A tile cannot attack, move, be targeted or perform any actions of any kind while detained.  This tile stays on the battlefield.", 
+        "effect": "toggle", 
+        "label": "Detain", 
+        "pickUp": false, 
+        "target": [
+            "any"
+        ], 
+        "trigger": "", 
+        "triggerTarget": [
+            ""
+        ], 
+        "value": 5
+    }, 
+    "espionage": {
+        "desc": "Destroy any target Officer tile.  This tile goes into its owner's hand afterwards.", 
+        "effect": "destroy", 
+        "label": "Espionage", 
+        "pickUp": true, 
+        "target": [
+            "officer"
+        ], 
+        "trigger": "", 
+        "triggerTarget": [
+            ""
+        ], 
+        "value": 1
+    }, 
+    "hardened": {
+        "desc": "Target tile cannot be damaged until after your next turn. This tile stays on the board.", 
+        "effect": "invulnerability", 
+        "label": "Hardened", 
+        "pickUp": false, 
+        "target": [
+            "any"
+        ], 
+        "trigger": "", 
+        "triggerTarget": [
+            ""
+        ], 
+        "value": 3
+    }, 
+    "illness": {
+        "desc": "-3 Power to target tile until after your next turn. This tile goes into its owner's hand.", 
+        "effect": "modtemp", 
+        "label": "Illness", 
+        "pickUp": true, 
+        "target": [
+            "any"
+        ], 
+        "trigger": "", 
+        "triggerTarget": [
+            ""
+        ], 
+        "value": -3
+    }, 
+    "infect": {
+        "desc": "Target tile is infected and becomes a Rookie of this tile's faction while on the battlefield. This tile goes into its owner's hand.", 
+        "effect": "transform", 
+        "label": "Infect", 
+        "pickUp": true, 
+        "target": [
+            "any"
+        ], 
+        "trigger": "", 
+        "triggerTarget": [
+            ""
+        ], 
+        "value": 1
+    }, 
+    "inspire": {
+        "desc": "+1 Power to all non-Officer tiles in your faction until after your next turn. This tile goes into its owner's hand.", 
+        "effect": "modtempall", 
+        "label": "Inspire", 
+        "pickUp": true, 
+        "target": [
+            "non-officer", 
+            "yours"
+        ], 
+        "trigger": "", 
+        "triggerTarget": [
+            ""
+        ], 
+        "value": 1
+    }, 
+    "lash": {
+        "desc": "+3 Power to any tile until after your next turn. This tile goes into its owner's hand.", 
+        "effect": "modtemp", 
+        "label": "Lash", 
+        "pickUp": true, 
+        "target": [
+            "any"
+        ], 
+        "trigger": "", 
+        "triggerTarget": [
+            ""
+        ], 
+        "value": 3
+    }, 
+    "martyr": {
+        "desc": "Destroy target tile.  The Martyr is also destroyed in the process.", 
+        "effect": "destroy", 
+        "label": "Martyr", 
+        "pickUp": false, 
+        "target": [
+            "any"
+        ], 
+        "trigger": "", 
+        "triggerTarget": [
+            ""
+        ], 
+        "value": 0
+    }, 
+    "none": {
+        "desc": "", 
+        "effect": "", 
+        "label": "", 
+        "pickUp": false, 
+        "target": [
+            "none"
+        ], 
+        "trigger": "", 
+        "triggerTarget": [
+            ""
+        ], 
+        "value": 0
+    }, 
+    "transport": {
+        "desc": "Trade places between any two target tiles of your own faction.  This tile goes into its owner's hand.", 
+        "effect": "swap", 
+        "label": "Transport", 
+        "pickUp": true, 
+        "target": [
+            "any"
+        ], 
+        "trigger": "", 
+        "triggerTarget": [
+            ""
+        ], 
+        "value": 0
+    }
+}

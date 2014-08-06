@@ -1,0 +1,41 @@
+{
+    "ability": {
+        "path": "assets/data/tsnAbilityData.json", 
+        "version": "95198ba680884cdb1f70a7d4ab7aee55"
+    }, 
+    "achievement": {
+        "path": "assets/data/tsnAchievementData.json", 
+        "version": "00189fcdd17e47d674a3ab8282a0ac61"
+    }, 
+    "art": {
+        "path": "assets/data/tsnArtData.json", 
+        "version": "0ad497af9264be093ca67543df02ec8a"
+    }, 
+    "atf": {
+        "path": "assets/data/tsnAtfData.json", 
+        "version": "61d4a7cc1170e2844702ce43153f9c02"
+    }, 
+    "audio": {
+        "path": "assets/data/tsnAudioData.json", 
+        "version": "6230675f1789a6b417eefb32c33b2a9c"
+    }, 
+    "build": 784, 
+    "campaign": {
+        "path": "assets/data/tsnCampaignData.json", 
+        "version": "aa8241363ac36d2d3ddb56d8e96bba76"
+    }, 
+    "effect": {
+        "path": "assets/data/tsnEffectData.json", 
+        "version": "f3ebc5b1d30f13cd41c060dc6a734103"
+    }, 
+    "success": true, 
+    "tile": {
+        "path": "assets/data/tsnTileData.json", 
+        "version": "845031b15017727b099114521d5564a9"
+    }, 
+    "ui": {
+        "path": "assets/data/tsnUiData.json", 
+        "version": "f0d37be09a1f591f309dd1904681a06e"
+    }, 
+    "version": "e4bd28c1a8b62e69fad1750defa4638f"
+}
