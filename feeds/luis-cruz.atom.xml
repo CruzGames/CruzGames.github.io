@@ -1,5 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>The Grigori Stones Dev Blog</title><link href="http://blog.grigoristones.com/" rel="alternate"></link><link href="http://blog.grigoristones.com/feeds/luis-cruz.atom.xml" rel="self"></link><id>http://blog.grigoristones.com/</id><updated>2014-08-01T08:07:00-06:00</updated><entry><title>The One About Tutorials</title><link href="http://blog.grigoristones.com/the-one-about-tutorials.html" rel="alternate"></link><updated>2014-08-01T08:07:00-06:00</updated><author><name>Luis Cruz</name></author><id>tag:blog.grigoristones.com,2014-08-01:the-one-about-tutorials.html</id><summary type="html">&lt;p&gt;First of all, I would like to apologize for starting this Dev Blog so late.  I suppose I should have been writing it up all the while, but I hadn't really thought about it much until a friend of mine mentioned it to me.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>The Grigori Stones Dev Blog</title><link href="http://blog.grigoristones.com/" rel="alternate"></link><link href="http://blog.grigoristones.com/feeds/luis-cruz.atom.xml" rel="self"></link><id>http://blog.grigoristones.com/</id><updated>2014-08-10T11:00:00-06:00</updated><entry><title>The One About Designing The Grigori Stones</title><link href="http://blog.grigoristones.com/the-one-about-designing-the-grigori-stones.html" rel="alternate"></link><updated>2014-08-10T11:00:00-06:00</updated><author><name>Luis Cruz</name></author><id>tag:blog.grigoristones.com,2014-08-10:the-one-about-designing-the-grigori-stones.html</id><summary type="html">&lt;p&gt;First of all, I'm going to assume you have a working knowledge of what a freemium game consists of.  You know, the basic parts, at least.  If you're feeling lacking in those areas, I can point you to some pretty great resources to find out more.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Amazing &lt;strong&gt;Resources&lt;/strong&gt; on Freemiums and Fans&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.gamesbrief.com/rules/"&gt;What are the rules?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://pages.gameacademy.com/gameacademy-gamekit/"&gt;What are some best practices?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.swrve.com/resources"&gt;What does the industry look like?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/The-Curve-Companies-High-Value-Customers/dp/1591846633/"&gt;But only 1.5% of my players actually pay!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Long-Tail-Endless-Creating-Unlimited-ebook/dp/B000JMKSE2/"&gt;How do I compete with the big names?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://kk.org/thetechnium/2008/03/1000-true-fans/"&gt;What is the minimum I need to survive?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There now, we're all experts!&lt;/p&gt;
+&lt;p&gt;That being said, how do you apply all of this newly-found knowledge you've acquired?  That's where I can come in and help by giving you and example of how I've assembled all of this into what you see in The Grigori Stones.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Finding a &lt;strong&gt; Theme&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;First of all, I made the &lt;em&gt;decision&lt;/em&gt; to finally design something &lt;span class="hue"&gt;for the market&lt;/span&gt; instead of something I felt like was &lt;span class="hue"&gt;for me&lt;/span&gt;.  This was a hard decision to make, but I was tired of making games (the few that I actually finished) that went nowhere because they couldn't find an audience.&lt;/p&gt;
+&lt;p&gt;In my case, I originally thought about The Grigori Stones as a fantasy RPG-style game.  Instead, I changed it to be more about Supernatural creatures as that seems to be the 800-pound gorilla in the mass-market trend battle arena.&lt;/p&gt;
+&lt;blockquote&gt;Supernatural critters like Zombies, Vampires, and Werewolves are popular with most segments of the entertainment-consuming populace, unlike my personal favorite, High Fantasy.
+&lt;br/&gt;
+&lt;span&gt;Theme?  Check!&lt;/span&gt;
+&lt;/blockquote&gt;
+
+&lt;h6 class="title-divider"&gt;Choosing the &lt;strong&gt;Genre&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;Looking at the popular genres and platform strengths (I knew I was making a mobile game), I decided to go with Multiplayer, Turn-based, and Strategy.&lt;/p&gt;
+&lt;blockquote&gt;&lt;i class="icon icon-ok"&gt;&lt;/i&gt; &lt;span&gt;Multiplayer&lt;/span&gt; because that unlocks virality and all of the "User Acquisition" pieces that go along with it.
+&lt;br/&gt;
+&lt;i class="icon icon-ok"&gt;&lt;/i&gt; &lt;span&gt;Turn-Based&lt;/span&gt; because the asynchronous style (rather than synchronous multiplayer) allows more people to play together.
+&lt;br/&gt;
+&lt;i class="icon icon-ok"&gt;&lt;/i&gt; &lt;span&gt;Strategy&lt;/span&gt; because it fits well with the first two items and it's one of the top genres on the Apple App Store.
+&lt;br/&gt;
+&lt;span&gt;Game genre?  Check!&lt;/span&gt;
+&lt;/blockquote&gt;
+
+&lt;h6 class="title-divider"&gt;Finding the right &lt;strong&gt;Mechanics&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;I decided I was going to make a game with strong replayability and build-once-use-over-and-over content.  &lt;span&gt;The natural fit here was a &lt;a href="http://en.wikipedia.org/wiki/Trading_card_game"&gt;TCG&lt;/a&gt;&lt;/span&gt; because of those reasons, but also because of the tight monetization model behind it.  Unfortunately this had its own set of various problems as well.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;There's a substantial glut in the market of trading card games.&lt;/li&gt;
+&lt;li&gt;All of the trading card games typically play exactly alike.&lt;/li&gt;
+&lt;li&gt;They're complex to learn and have a heavy random element.&lt;/li&gt;
+&lt;li&gt;Even the neat genre-derivatives, from Rage of Bahamut to Hearthstone to Hero Academy, felt either too derivative or not strategic enough.&lt;/li&gt;
+&lt;li&gt;The environment of the game board should be more important!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;My mind first went to TCG + &lt;a href="http://en.wikipedia.org/wiki/Stratego"&gt;Stratego&lt;/a&gt;, but that would make local pass-and-play multiplayer awkward as you needed to hide your tile placement from the other player.  That's when I started to explore concepts like Dominoes and Scrabble for inspiration.&lt;/p&gt;
+&lt;p&gt;Eventually, I settled on Multiplayer TCG + Stratego + &lt;a href="http://en.wikipedia.org/wiki/Mahjong"&gt;Mahjong&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;&lt;i class="icon icon-ok"&gt;&lt;/i&gt; Collectible game assets? Yes!
+&lt;br/&gt;
+&lt;i class="icon icon-ok"&gt;&lt;/i&gt; Affecting the environment? Yes!
+&lt;br/&gt;
+&lt;i class="icon icon-ok"&gt;&lt;/i&gt; Simple rules?  Yes!
+&lt;br/&gt;
+&lt;i class="icon icon-ok"&gt;&lt;/i&gt; Deep strategy?  Yes!
+&lt;br/&gt;
+&lt;span&gt;Core mechanics?  Check!&lt;/span&gt;
+&lt;/blockquote&gt;
+
+&lt;h6 class="title-divider"&gt;Exploring the &lt;strong&gt;Core Loop Skeleton&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;From there, it was really about prototyping it to find the possibility of fun.  &lt;span&gt;The best way to do this was really with the two sets of dominoes&lt;/span&gt; I, of course, had laying around.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Note: Every game designer should always have piles of playing cards, dominoes, scrabble tiles, dice, beads, counters, colored paper just laying around.  This makes quick and dirty prototyping really easy.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;After some experimentation with friends and family, I hit upon what I felt was the right level of interaction between the moves, the board position, your options, and the concept of a "hand".&lt;/p&gt;
+&lt;p&gt;Thus, these were the basic rules coming out of the play prototyping:&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;On your turn, you can -&lt;/span&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;i class="icon-ok darkgrey"&gt;&lt;/i&gt; &lt;span&gt;Move a free tile&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;i class="icon-ok darkgrey"&gt;&lt;/i&gt; &lt;span&gt;Attack a free tile&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;i class="icon-ok darkgrey"&gt;&lt;/i&gt; &lt;span&gt;Use a free tile's ability&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;i class="icon-ok darkgrey"&gt;&lt;/i&gt; &lt;span&gt;Place a tile from your hand&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;After that, the next turn goes over to your opponent.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Where to from here?&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;Now that I've got the core pieces in place, it's really all about designing the experience around them.  Figuring out the three primary pillars of &lt;span class="hue"&gt;User Acquisition, Retention, and Monetization&lt;/span&gt; using all the tools in my arsenal.  Things like &lt;span&gt;Goal Progression, Re-engagement, Consumables, Anchoring, Feedback, Affordance, and Rewards&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;Hopefully, this sheds a bit of light on how I build games from their core pieces, but leave room for wiggling as I tackle those big three success pillars.  I'll cover each of the pillars in depth as I continue this series.&lt;/p&gt;
+&lt;p&gt;In the meantime, I suggest you study up and be ready!&lt;/p&gt;</summary><category term="howto"></category><category term="design"></category><category term="f2p"></category><category term="f2pDesignSeries"></category></entry><entry><title>The One About Tutorials</title><link href="http://blog.grigoristones.com/the-one-about-tutorials.html" rel="alternate"></link><updated>2014-08-01T08:07:00-06:00</updated><author><name>Luis Cruz</name></author><id>tag:blog.grigoristones.com,2014-08-01:the-one-about-tutorials.html</id><summary type="html">&lt;p&gt;First of all, I would like to apologize for starting this Dev Blog so late.  I suppose I should have been writing it up all the while, but I hadn't really thought about it much until a friend of mine mentioned it to me.&lt;/p&gt;
 &lt;p&gt;So, here it goes.&lt;/p&gt;
 &lt;p&gt;For this first entry, I would really like to talk about how I did the tutorial.  I feel like it's fairly innovative.  Or, at the very least, I think it's not a technique that's used very often.&lt;/p&gt;
 &lt;p&gt;I have always felt like standard tutorial levels in games were actually pretty terrible.  They tend to be a series of little, highlighted steps where you can't click anything except the one button they make you click.  I don't know about you, but I tend to just get into the "Click, click, click. Next, next, next, just get me finished with this so I can get to the game." mode.&lt;/p&gt;
