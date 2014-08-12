@@ -24,6 +24,8 @@
 &lt;h6 class="title-divider"&gt;Choosing the &lt;strong&gt;Genre&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
 
 &lt;p&gt;Looking at the popular genres and platform strengths (I knew I was making a mobile game), I decided to go with Multiplayer, Turn-based, and Strategy.&lt;/p&gt;
+&lt;p&gt;Notice that the first two, Multiplayer and Turn-based, are all about getting the maximum number of people together to play my game.  Multiplayer is obvious, but Turn-based?  It enables more people to play together as they don't have to be online at the exact same time.&lt;/p&gt;
+&lt;p&gt;This has two effects, really.  One is that more people can play, thus, more people will share my game out.  Two is I can now capture the player time in between turns with activities like managing their tileset and (most important!) purchasing and unwrapping new tiles.&lt;/p&gt;
 &lt;blockquote&gt;&lt;i class="icon icon-ok"&gt;&lt;/i&gt; &lt;span&gt;Multiplayer&lt;/span&gt; because that unlocks virality and all of the "User Acquisition" pieces that go along with it.
 &lt;br/&gt;
 &lt;i class="icon icon-ok"&gt;&lt;/i&gt; &lt;span&gt;Turn-Based&lt;/span&gt; because the asynchronous style (rather than synchronous multiplayer) allows more people to play together.
@@ -75,7 +77,7 @@
 &lt;h6 class="title-divider"&gt;Where to from here?&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
 
 &lt;p&gt;Now that I've got the core pieces in place, it's really all about designing the experience around them.  Figuring out the three primary pillars of &lt;span class="hue"&gt;User Acquisition, Retention, and Monetization&lt;/span&gt; using all the tools in my arsenal.  Things like &lt;span&gt;Goal Progression, Re-engagement, Consumables, Anchoring, Feedback, Affordance, and Rewards&lt;/span&gt;.&lt;/p&gt;
-&lt;p&gt;Hopefully, this sheds a bit of light on how I build games from their core pieces, but leave room for wiggling as I tackle those big three success pillars.  I'll cover each of the pillars in depth as I continue this series.&lt;/p&gt;
+&lt;p&gt;Hopefully, this sheds a bit of light on how I build games from their core pieces, but leave room for wiggling as I tackle those big three success pillars.  I'll cover each of the pillars in depth as I continue this series, but most importantly, I want to point out how game designers build their games from the ground up with specific targets in mind.  There is never a moment where you should be making decisions without an objective, rational reason.&lt;/p&gt;
 &lt;p&gt;In the meantime, I suggest you study up and be ready!&lt;/p&gt;</summary><category term="howto"></category><category term="design"></category><category term="f2p"></category><category term="f2pDesignSeries"></category></entry><entry><title>The One About Tutorials</title><link href="http://blog.grigoristones.com/the-one-about-tutorials.html" rel="alternate"></link><updated>2014-08-01T08:07:00-06:00</updated><author><name>Luis Cruz</name></author><id>tag:blog.grigoristones.com,2014-08-01:the-one-about-tutorials.html</id><summary type="html">&lt;p&gt;First of all, I would like to apologize for starting this Dev Blog so late.  I suppose I should have been writing it up all the while, but I hadn't really thought about it much until a friend of mine mentioned it to me.&lt;/p&gt;
 &lt;p&gt;So, here it goes.&lt;/p&gt;
 &lt;p&gt;For this first entry, I would really like to talk about how I did the tutorial.  I feel like it's fairly innovative.  Or, at the very least, I think it's not a technique that's used very often.&lt;/p&gt;
