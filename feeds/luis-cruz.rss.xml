@@ -1,5 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Grigori Stones Dev Blog</title><link>http://blog.grigoristones.com/</link><description></description><atom:link href="http://blog.grigoristones.com/feeds/luis-cruz.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 10 Aug 2014 11:00:00 -0600</lastBuildDate><item><title>The One About Designing The Grigori Stones</title><link>http://blog.grigoristones.com/the-one-about-designing-the-grigori-stones.html</link><description>&lt;p&gt;First of all, I'm going to assume you have a working knowledge of what a freemium game consists of.  You know, the basic parts, at least.  If you're feeling lacking in those areas, I can point you to some pretty great resources to find out more.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Grigori Stones Dev Blog</title><link>http://blog.grigoristones.com/</link><description></description><atom:link href="http://blog.grigoristones.com/feeds/luis-cruz.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 15 Oct 2014 20:57:00 -0600</lastBuildDate><item><title>The One About The Art</title><link>http://blog.grigoristones.com/the-one-about-the-art.html</link><description>&lt;p&gt;Since the very beginning of The Grigori Stones project, I was certain that I would need some art help.  While I am an accomplished artists myself, I wanted a specific look and knew I was not able to achieve the quality that I wanted.&lt;/p&gt;
+&lt;p&gt;That's where my hunt for a talented artist began -- Finding an artist who could create amazing art with a "Steampunk Lite" feel to it.  Eventually, I found my way to the Game Crafter forums.  I was scrolling through portfolios and such when I came across &lt;a href="https://community.thegamecrafter.com/forums/art-and-graphic-design/experienced-graphic-designer/illustrator-available"&gt;a post&lt;/a&gt; by Dani Kaulakis.  I clicked to visit &lt;a href="http://danikaulakisart.com/"&gt;her site&lt;/a&gt; and found her series on Steampunk Seasons.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://fineartamerica.com/featured/steampunk-seasons-dani-kaulakis.html" style="display:block; text-align: center;"&gt;
+    &lt;img src="/static/blogimages/dani_seasons.png" alt="Steampunk Seasons"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I immediately sent her an email saying &lt;i&gt;"I'm looking for the (light) steampunk feel, but with vampires, werewolves and zombies.  Something along the lines of the style and extra flourishes in your Steampunk Seasons series -- especially autumn."&lt;/i&gt;  She responded with interest and we were off and running.&lt;/p&gt;
+&lt;p&gt;Her rates were more than reasonable and she worked quickly and finished everything on time.  The entire experience was an absolute pleasure and I wouldn't hesitate to work with her again on a different project.&lt;/p&gt;
+&lt;p&gt;Anyway, as we got into the meat of the contract, we started with a few vampires with the hopes of finishing out the entire set if I was happy with the results.&lt;/p&gt;
+&lt;p&gt;So, I sent over a bit of direction for the first three tiles.&lt;/p&gt;
+&lt;pre style="width: 60%"&gt;
+In general, the abilities of the different factions run like this:
+
+  * Werewolves are strong, physical brutes.  Lots of power bonuses.
+  * Vampires are filled with combat tricks and traps.
+  * Zombies spread disease and decay.  Lots of negative power bonuses.
+  * Humans are capable of all of the above, but they're just more 
+    expensive.
+
+And, finally, these are the three tiles I'd like you to prototype:
+
+*Vampire Spy* -- These vampires are physically weak (they're 2s), but 
+are able to take down any officer, no matter how powerful.
+
+*Vampire Soldier* -- These are typical, run-of-the-mill fighting 
+vampires.  power of 4.
+
+*Vampire Transporter* --  Vampire officers with the mystical ability 
+of tile swapping.  They are able to cause any two tiles to swap places 
+on the board.  Also a power of 4.
+&lt;/pre&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="/static/blogimages/vampirespy_sketch.png" data-rel="prettyPhoto"&gt;
+    &lt;img src="/static/blogimages/vampirespy_sketch.png" alt="" width="25%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;And, the first thing Dani ever sent me for the first tile she ever did was this Vampire Spy sketch.  So, needless to say, I was completely hooked.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;From there on, it was me sending over guidance like this:&lt;/p&gt;
+&lt;pre style="width: 60%"&gt;
+Werewolf Juicer:
+
+    They've got the ability to boost any tile by +1 power
+    Tweaked out looking!
+
+
+Werewolf Lasher:
+
+    They give a temporary +3 bonus to power
+    I picture them driving the pack on with a whip
+
+
+Werewolf Breeder:
+
+    They bite and transform the tile into a werewolf rookie
+    Slavering, drooly, chewing on someone
+
+
+Werewolf Shaman:
+
+    +1 power to all non-officer werewolves
+    Here's our awesome moon shaman
+&lt;/pre&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;And Dani would knock out sketches like these: &lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="/static/blogimages/nurse_sketch.png" data-rel="prettyPhoto"&gt;
+    &lt;img src="/static/blogimages/nurse_sketch.png" alt="" width="30%" class="pull-left"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="/static/blogimages/breeder_sketch.png" data-rel="prettyPhoto"&gt;
+    &lt;img src="/static/blogimages/breeder_sketch.png" alt="" width="30%" class="pull-left"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="/static/blogimages/human_elite_sketch.png" data-rel="prettyPhoto"&gt;
+    &lt;img src="/static/blogimages/human_elite_sketch.png" alt="" width="30%" class="pull-left"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;div style="clear:left;"&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;And the rest, as they say, is history.&lt;/p&gt;
+&lt;p&gt;So, by all means, go and check out &lt;a href="http://danikaulakisart.com"&gt;Dani's amazing artwork&lt;/a&gt;.  You'll be glad you did.&lt;/p&gt;
+&lt;p&gt;Best,&lt;br/&gt;
+Luis&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Luis Cruz</dc:creator><pubDate>Wed, 15 Oct 2014 20:57:00 -0600</pubDate><guid>tag:blog.grigoristones.com,2014-10-15:the-one-about-the-art.html</guid><category>art</category><category>characters</category><category>dani</category></item><item><title>The One About Designing The Grigori Stones</title><link>http://blog.grigoristones.com/the-one-about-designing-the-grigori-stones.html</link><description>&lt;p&gt;First of all, I'm going to assume you have a working knowledge of what a freemium game consists of.  You know, the basic parts, at least.  If you're feeling lacking in those areas, I can point you to some pretty great resources to find out more.&lt;/p&gt;
 &lt;h6 class="title-divider"&gt;Amazing &lt;strong&gt;Resources&lt;/strong&gt; on Freemiums and Fans&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
 
 &lt;ul&gt;

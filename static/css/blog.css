@@ -1,0 +1,10 @@
+pre {
+	font-family: "Courier New" !important;
+	font-size: 12px !important;
+	color: #444444 !important;
+	font-weight: normal !important;
+}
+
+pre span {
+	font-weight: normal !important;
+}
