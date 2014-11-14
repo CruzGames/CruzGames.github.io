@@ -52,6 +52,7 @@ small { letter-spacing:0.2em; font-size:11px; }
 .breadcrumbs{ font-weight: normal; margin-top:-15px; color:#aaa; text-transform:uppercase; font-size:10px; letter-spacing:4px;  }
 .pull-right { margin-left:8px; }
 .pull-left { margin-right:8px; }
+.centered {  margin:0px auto 0; display: block;}
 .tooltip.top { padding:5px 0; margin-top:-13px; }
 blockquote { border-left:3px solid #BE2844; }
 .zocial:hover, .zocial:focus{ background: #BE2844; }

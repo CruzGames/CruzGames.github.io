@@ -10,14 +10,13 @@
       <title>The Grigori Stones Dev Blog</title>
     <meta charset="utf-8" />
     <link href="http://blog.grigoristones.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="The Grigori Stones Dev Blog Full Atom Feed" />
-    <link href="http://blog.grigoristones.com/feeds/game-design.atom.xml" type="application/atom+xml" rel="alternate" title="The Grigori Stones Dev Blog Categories Atom Feed" />
+    <link href="http://blog.grigoristones.com/feeds/art.atom.xml" type="application/atom+xml" rel="alternate" title="The Grigori Stones Dev Blog Categories Atom Feed" />
 
 
 
-    <meta name="tags" contents="howto" />
-    <meta name="tags" contents="design" />
-    <meta name="tags" contents="f2p" />
-    <meta name="tags" contents="f2pDesignSeries" />
+    <meta name="tags" contents="launch" />
+    <meta name="tags" contents="itunes" />
+    <meta name="tags" contents="available" />
 
 
 	<link href='http://fonts.googleapis.com/css?family=Arvo:400|Open+Sans:400,700,300' rel='stylesheet' type='text/css'>
@@ -117,17 +116,17 @@
 
         <div class="span9"> 
             <div class="date-post">
-                <span class="day hue"><script>var d = new Date('2014-08-10T11:00:00');document.write(d.getDate());</script></span>
-                <span class="month"><script>var d = new Date('2014-08-10T11:00:00');document.write(month[d.getMonth()]);</script></span>
+                <span class="day hue"><script>var d = new Date('2014-11-14T08:05:00');document.write(d.getDate());</script></span>
+                <span class="month"><script>var d = new Date('2014-11-14T08:05:00');document.write(month[d.getMonth()]);</script></span>
             </div>
 
-            <a href="/static/blogimages/f2p_design_header.png" data-rel="prettyPhoto">
-                <img src="/static/blogimages/f2p_design_header.png" alt="" height="376" width="960">
+            <a href="/static/blogimages/launch_header.png" data-rel="prettyPhoto">
+                <img src="/static/blogimages/launch_header.png" alt="" height="376" width="960">
             </a>
 
-            <h2 class="title-divider span9 post_link pad15"><a href="http://blog.grigoristones.com/the-one-about-designing-the-grigori-stones.html" rel="bookmark" title="Permalink to The One About Designing The Grigori Stones"><strong>The One About Designing The Grigori Stones</strong></a><span></span></h2>
+            <h2 class="title-divider span9 post_link pad15"><a href="http://blog.grigoristones.com/the-one-where-we-launch.html" rel="bookmark" title="Permalink to The One Where We Launch"><strong>The One Where We Launch</strong></a><span></span></h2>
 
-            <h2 class="hue"><p>What follows is my design process (in a rough sort of way) I used when assembling all of the pieces that make up The Grigori Stones.</p></h2>
+            <h2 class="hue"><p>We're now live on the iOS App Store -- Download The Grigori Stones for your iPad Today!</p></h2>
 
             <div class="clear"></div>
 
@@ -136,7 +135,7 @@
                     <li>Posted by 
                         <a class="url fn" href="http://blog.grigoristones.com/author/luis-cruz.html">Luis Cruz</a>
                     <span class="muted">/</span></li>
-                    <li><i class="icon-calendar normal muted"></i> Sun 10 August 2014 /</li>
+                    <li><i class="icon-calendar normal muted"></i> Fri 14 November 2014 /</li>
                     <li><i class="icon-bullhorn normal muted"></i>                        <a href="http://blog.grigoristones.com/tag/art.html">art</a> /
                         <a href="http://blog.grigoristones.com/tag/available.html">available</a> /
                         <a href="http://blog.grigoristones.com/tag/characters.html">characters</a> /
@@ -150,91 +149,53 @@
                         <a href="http://blog.grigoristones.com/tag/tutorial.html">tutorial</a> /
                         <a href="http://blog.grigoristones.com/tag/ui.html">ui</a> /
                     </li>
-                    <li><i class="icon-comment-alt muted"></i> <a href="http://blog.grigoristones.com/the-one-about-designing-the-grigori-stones.html#disqus_thread">Comments</a></li>
+                    <li><i class="icon-comment-alt muted"></i> <a href="http://blog.grigoristones.com/the-one-where-we-launch.html#disqus_thread">Comments</a></li>
                 </ul>
             </div>
             <!--end meta--> 
 
-            <p>First of all, I'm going to assume you have a working knowledge of what a freemium game consists of.  You know, the basic parts, at least.  If you're feeling lacking in those areas, I can point you to some pretty great resources to find out more.</p>
-<h6 class="title-divider">Amazing <strong>Resources</strong> on Freemiums and Fans<span></span></h6>
-
-<ul>
-<li><a href="http://www.gamesbrief.com/rules/">What are the rules?</a></li>
-<li><a href="http://pages.gameacademy.com/gameacademy-gamekit/">What are some best practices?</a></li>
-<li><a href="http://www.swrve.com/resources">What does the industry look like?</a></li>
-<li><a href="http://www.amazon.com/The-Curve-Companies-High-Value-Customers/dp/1591846633/">But only 1.5% of my players actually pay!</a></li>
-<li><a href="http://www.amazon.com/Long-Tail-Endless-Creating-Unlimited-ebook/dp/B000JMKSE2/">How do I compete with the big names?</a></li>
-<li><a href="http://kk.org/thetechnium/2008/03/1000-true-fans/">What is the minimum I need to survive?</a></li>
-</ul>
-<p>There now, we're all experts!</p>
-<p>That being said, how do you apply all of this newly-found knowledge you've acquired?  That's where I can come in and help by giving you and example of how I've assembled all of this into what you see in The Grigori Stones.</p>
-<h6 class="title-divider">Finding a <strong> Theme</strong><span></span></h6>
-
-<p>First of all, I made the <em>decision</em> to finally design something <span class="hue">for the market</span> instead of something I felt like was <span class="hue">for me</span>.  This was a hard decision to make, but I was tired of making games (the few that I actually finished) that went nowhere because they couldn't find an audience.</p>
-<p>In my case, I originally thought about The Grigori Stones as a fantasy RPG-style game.  Instead, I changed it to be more about Supernatural creatures as that seems to be the 800-pound gorilla in the mass-market trend battle arena.</p>
-<blockquote>Supernatural critters like Zombies, Vampires, and Werewolves are popular with most segments of the entertainment-consuming populace, unlike my personal favorite, High Fantasy.
-<br/>
-<span>Theme?  Check!</span>
-</blockquote>
-
-<h6 class="title-divider">Choosing the <strong>Genre</strong><span></span></h6>
-
-<p>Looking at the popular genres and platform strengths (I knew I was making a mobile game), I decided to go with Multiplayer, Turn-based, and Strategy.</p>
-<p>Notice that the first two, Multiplayer and Turn-based, are all about getting the maximum number of people together to play my game.  Multiplayer is obvious, but Turn-based?  It enables more people to play together as they don't have to be online at the exact same time.</p>
-<p>This has two effects, really.  One is that more people can play, thus, more people will share my game out.  Two is I can now capture the player time in between turns with activities like managing their tileset and (most important!) purchasing and unwrapping new tiles.</p>
-<blockquote><i class="icon icon-ok"></i> <span>Multiplayer</span> because that unlocks virality and all of the "User Acquisition" pieces that go along with it.
-<br/>
-<i class="icon icon-ok"></i> <span>Turn-Based</span> because the asynchronous style (rather than synchronous multiplayer) allows more people to play together.
-<br/>
-<i class="icon icon-ok"></i> <span>Strategy</span> because it fits well with the first two items and it's one of the top genres on the Apple App Store.
-<br/>
-<span>Game genre?  Check!</span>
-</blockquote>
-
-<h6 class="title-divider">Finding the right <strong>Mechanics</strong><span></span></h6>
-
-<p>I decided I was going to make a game with strong replayability and build-once-use-over-and-over content.  <span>The natural fit here was a <a href="http://en.wikipedia.org/wiki/Trading_card_game">TCG</a></span> because of those reasons, but also because of the tight monetization model behind it.  Unfortunately this had its own set of various problems as well.</p>
-<ol>
-<li>There's a substantial glut in the market of trading card games.</li>
-<li>All of the trading card games typically play exactly alike.</li>
-<li>They're complex to learn and have a heavy random element.</li>
-<li>Even the neat genre-derivatives, from Rage of Bahamut to Hearthstone to Hero Academy, felt either too derivative or not strategic enough.</li>
-<li>The environment of the game board should be more important!</li>
-</ol>
-<p>My mind first went to TCG + <a href="http://en.wikipedia.org/wiki/Stratego">Stratego</a>, but that would make local pass-and-play multiplayer awkward as you needed to hide your tile placement from the other player.  That's when I started to explore concepts like Dominoes and Scrabble for inspiration.</p>
-<p>Eventually, I settled on Multiplayer TCG + Stratego + <a href="http://en.wikipedia.org/wiki/Mahjong">Mahjong</a>.</p>
-<blockquote><i class="icon icon-ok"></i> Collectible game assets? Yes!
-<br/>
-<i class="icon icon-ok"></i> Affecting the environment? Yes!
-<br/>
-<i class="icon icon-ok"></i> Simple rules?  Yes!
-<br/>
-<i class="icon icon-ok"></i> Deep strategy?  Yes!
-<br/>
-<span>Core mechanics?  Check!</span>
-</blockquote>
-
-<h6 class="title-divider">Exploring the <strong>Core Loop Skeleton</strong><span></span></h6>
-
-<p>From there, it was really about prototyping it to find the possibility of fun.  <span>The best way to do this was really with the two sets of dominoes</span> I, of course, had laying around.</p>
-<blockquote>
-<p>Note: Every game designer should always have piles of playing cards, dominoes, scrabble tiles, dice, beads, counters, colored paper just laying around.  This makes quick and dirty prototyping really easy.</p>
-</blockquote>
-<p>After some experimentation with friends and family, I hit upon what I felt was the right level of interaction between the moves, the board position, your options, and the concept of a "hand".</p>
-<p>Thus, these were the basic rules coming out of the play prototyping:</p>
-<p><span>On your turn, you can -</span>
-<ul>
-    <li><i class="icon-ok darkgrey"></i> <span>Move a free tile</span></li>
-    <li><i class="icon-ok darkgrey"></i> <span>Attack a free tile</span></li>
-    <li><i class="icon-ok darkgrey"></i> <span>Use a free tile's ability</span></li>
-    <li><i class="icon-ok darkgrey"></i> <span>Place a tile from your hand</span></li>
-</ul></p>
-<p>After that, the next turn goes over to your opponent.</p>
-<h6 class="title-divider">Where to from here?<span></span></h6>
-
-<p>Now that I've got the core pieces in place, it's really all about designing the experience around them.  Figuring out the three primary pillars of <span class="hue">User Acquisition, Retention, and Monetization</span> using all the tools in my arsenal.  Things like <span>Goal Progression, Re-engagement, Consumables, Anchoring, Feedback, Affordance, and Rewards</span>.</p>
-<p>Hopefully, this sheds a bit of light on how I build games from their core pieces, but leave room for wiggling as I tackle those big three success pillars.  I'll cover each of the pillars in depth as I continue this series, but most importantly, I want to point out how game designers build their games from the ground up with specific targets in mind.  There is never a moment where you should be making decisions without an objective, rational reason.</p>
-<p>In the meantime, I suggest you study up and be ready!</p>
+            <p>It's been almost two years now and -- finally! -- I'm happy to announce we're currently live on the iOS App Store.  You can go to our iTunes page to download it today.</p>
+<p>Here's the official announcement.</p>
+<hr />
+<h1>The Grigori Stones: These are the Stories of the Supernatural Wars</h1>
+<h3>A Stratego/Mahjong mashup collectible tile-based game set in a victorian-inspired world of Vampires, Zombies, and Werewolves.</h3>
+<p><strong>BOISE, IDAHO — October 17th, 2014</strong> — One-man indie game developer Cruz Games, LLC announced today the general availability of The Grigori Stones on the iTunes Store exclusively for the iPad.  The children of Fallen Angels are rampaging through a victorian-inspired world filled with Vampires, Zombies, and Werewolves. Wage war in this Stratego/Mahjong mashup of a collectible tile-based game. Learn more at <a href="http://grigoristones.com">http://grigoristones.com</a>.</p>
+<p>The Grigori Stones is played on a board similar to Mahjong.  Your troops are represented by tiles stacked and placed randomly on two opposing sides with their flag in the center.  The rules are simple, but the consequences of your actions reverberate with deep, strategic possibilities.</p>
+<p>Once play begins, each player takes their turn by performing one of the following actions:</br>
+ - Move a tile</br>
+ - Attack tile</br>
+ - Use a tile ability</br>
+ - Place a tile from your hand</p>
+<p>Once they perform their one action, it is now their opponent’s turn.  Play continues until all of a player’s tiles are destroyed or their flag is taken.</p>
+<p>The Grigori Stones was developed for the iPad and is currently available for free on the iTunes store.  Please visit <a href="http://grigoristones.com">http://grigoristones.com</a> for more information about the game, the rules, and details about all of the tiles.</p>
+<p><strong>Features:</strong></br>
+- Collectible Tile-Based Strategy</br>
+- 35 Campaign Levels</br>
+- Pass-and-Play Multiplayer</br>
+- Hone Your Strategy Offline</br>
+- Battle Your Friends Online</br>
+- Earn or Purchase More Tiles</br></p>
+<p>Availability: Now!</br>
+Price: Free</br>
+Platform: iPad 2 or greater</br>
+iTunes Link: <a href="https://itunes.apple.com/us/app/grigori-stones/id741657894">https://itunes.apple.com/us/app/grigori-stones/id741657894</a></br></p>
+<p>Gameplay Video: <a href="https://www.youtube.com/watch?v=cU02nuBqt10">https://www.youtube.com/watch?v=cU02nuBqt10</a></br>
+Screenshots: <a href="https://game.grigoristones.com/media/screenshots">https://game.grigoristones.com/media/screenshots</a></br>
+Presskit Page: <a href="https://game.grigoristones.com/presskit">https://game.grigoristones.com/presskit</a></br></p>
+<p><strong>UserTesting.com Feedback from Test Users</strong></br>
+"The story and concept are really cool. The art work and graphics are well done and certainly add to the experience." - Lazerbeak</p>
+<p>"I liked the victorian era design to it all and that you quickly got interested in the story." - jcgearhart</p>
+<p>"I like the entire zombie, werewolf, and vampire concept. Very hip and the graphics makes it appealing." - Cynderella</p>
+<p>Cruz Games, LLC is a small, one-man indie game developer based in Boise, Idaho.  Cruz focuses on strategy games for mobile devices and has released his first game, The Grigori Stones: These are the Stories of the Supernatural Wars.</p>
+<hr />
+<p><a href="https://itunes.apple.com/us/app/grigori-stones/id741657894" style="display:block; text-align: center;">
+    <img src="/static/blogimages/release_promo.png" alt="Available on iOS for your iPad">
+</a></p>
+<p>Thank you everyone for having patience and thank you for your enthusiasm about the game.</p>
+<p>And, last but not least, thank you to all of my friends, family, and other testers for putting up with me constantly hounding you for the last 18 months for testing and feedback.</p>
+<p>Milestone achieved!</p>
+<p>Best,<br/>
+Luis</p>
 
             <div class="pad45"></div>
 
