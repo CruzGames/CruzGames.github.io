@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>The Grigori Stones Dev Blog</title><link href="http://blog.grigoristones.com/" rel="alternate"></link><link href="http://blog.grigoristones.com/feeds/game-play.atom.xml" rel="self"></link><id>http://blog.grigoristones.com/</id><updated>2014-11-21T12:01:00-07:00</updated><entry><title>The One About How To Play</title><link href="http://blog.grigoristones.com/the-one-about-how-to-play.html" rel="alternate"></link><updated>2014-11-21T12:01:00-07:00</updated><author><name>Luis Cruz</name></author><id>tag:blog.grigoristones.com,2014-11-21:the-one-about-how-to-play.html</id><summary type="html">&lt;h2 class="title-divider"&gt;The &lt;strong&gt;Basics&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;The basic gameplay is very simple.  Each player just performs one of their 4 available actions (Move, Attack, Use Ability, or Place) for one tile each turn.  There are no phases or other complicated mechanics in the game.&lt;/p&gt;
+&lt;p&gt;In fact, the basic flow of gameplay goes like this:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Each player has what’s called a “tileset"&lt;/strong&gt; — In a Collectible Card Game, this is your "deck".  Basically it's a collection of tiles from a single faction (Vampires, Zombies, Werewolves, or Human Freemasons) put together based on a point total.  Meaning, you can have a maximum of 100 points worth of tiles in your tileset.  This means, you can have a few really powerful tiles, a bunch of weenie tiles, or some combination therein.  As long as the Soul Point totals of each tileset add up to less than 100.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The gameboard is initially laid out randomly&lt;/strong&gt; — Each opposing side has all of their own tiles stacked on their side.  All the tiles are face-up so as to be visible.  Each player has a flag which is buried near the center of the board and underneath their respective tiles.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Each player takes a turn where they can take only ONE of the following actions — Move, Attack, Use Ability, or Place:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;MOVE&lt;/strong&gt; — You can pick up your tile if it’s free and move it anywhere on the gameboard.  A tile is free in a similar way that &lt;a href="http://en.wikipedia.org/wiki/Mahjong_solitaire"&gt;Mahjong Solitaire&lt;/a&gt; tiles are free.  It cannot be covered up by another tile and it needs an empty space to either the left or right.  You might want to do this to uncover other tiles beneath a tile or to move to cover one of your opponent’s tiles so their tile is no longer free.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ATTACK&lt;/strong&gt; — Each tile has a single numerical value assigned to it (similar to the game &lt;a href="http://en.wikipedia.org/wiki/Stratego"&gt;Stratego&lt;/a&gt;) representing its power.  A 7 is more powerful than a 5.  If your 7-power tile attacks a 5-power tile, it is destroyed and removed from the game.  If two tiles have the same power, they are both destroyed.  If your attacking tile is still alive after the attack, that tile goes into your hand.  Similar to moving, tiles can only attack if they are free.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;USE ABILITY&lt;/strong&gt; — Some tiles have what we call abilities.  These abilities can be used to do things like modify another tile’s power, prevent them from moving, or even instantly destroy them.  Depending on the strength of the ability and cost of the tile, after the ability is used, that tile may or may not go into your hand.  Each tile will say what happens when its ability is triggered.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;PLACE&lt;/strong&gt; — You start with no tiles in your hand, but will soon pick them up as they attack or use certain abilities.  There is even a tile whose ability is to banish tiles to your hand.  It is important to note you can only hold 3 tiles in your hand at any time.  This means, you will need to use one of your turns to place a tile or else any additional tiles beyond the first three will be removed from the game when they are triggered to enter your hand.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Play continues until one of you wins&lt;/strong&gt; — With each player taking their one action on each of their turns, a winner is declared when one of the following conditions is met:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;You attack and destroy the other player’s flag.&lt;/li&gt;
+&lt;li&gt;You destroy all of the other player’s tiles.&lt;/li&gt;
+&lt;li&gt;Your opponent has no more moves available to them.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is the point where you're saying to yourself, "Wow, for not a lot of rules, that sure is a wall of text!"&lt;/p&gt;
+&lt;p&gt;So, with that, I'll just go ahead and walk you through a simple game.  With pictures...  Lots of pictures.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The concept of a "Free Tile" is a crucial component of the game.  A tile is considered free in a similar way that &lt;a href="http://en.wikipedia.org/wiki/Mahjong_solitaire"&gt;Mahjong Solitaire&lt;/a&gt; tiles are free.  It cannot be covered up by another tile and it needs an empty space to either the left or right.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 class="title-divider"&gt;An &lt;strong&gt;Example&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;Once you've set up your game, either by selecting to play the Campaign or by setting up a few tilesets and heading into a Custom Game, you'll go to the actual gameboard.&lt;/p&gt;
+&lt;p&gt;Here, the tiles will be randomly laid out, each faction on either side of the board.  Your flags will be near the center and possibly buried underneath a fistful of tiles.&lt;/p&gt;
+&lt;p&gt;In this particular example game, we're going to play &lt;a href="https://game.grigoristones.com/compendium/vampire"&gt;Vampires&lt;/a&gt; vs. &lt;a href="https://game.grigoristones.com/compendium/freemason"&gt;Freemasons&lt;/a&gt; with each tileset being about 60 points, give or take.&lt;/p&gt;
+&lt;p&gt;Our goal?  &lt;strong&gt;Get that enemy flag!&lt;/strong&gt;&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Turn &lt;strong&gt;One&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_01.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_01.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;First of all, we survey the battlefield and get a rough strategy together based on where the random tiles ended up.  In this case, it's pretty flat and as the Freemasons, we've got good access to most of our tiles.  (To be expected since this is an example game using 60% of the tiles from a standard match)  &lt;/p&gt;
+&lt;p&gt;This means just about any strategy is available.&lt;/p&gt;
+&lt;p&gt;That being the case, we're going to use our &lt;a href="https://game.grigoristones.com/compendium/tile?tileId=H001-Spy"&gt;Freemason Spy&lt;/a&gt; while she's still really strong in the early game.  And, since she doesn't have a tile to her left, that means she's free to use this turn.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Looking at a &lt;strong&gt;Tile&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_02.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_02.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Once we tap on our spy, you'll notice that a detail view of her comes up.  From here, you can see her basic information like Cost and Power.&lt;/p&gt;
+&lt;p&gt;Notice her ability says "Espionage: Destroy any target Officer tile. This tile goes into its owner's hand afterwards".  That's what we're going to use.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Selecting our &lt;strong&gt;Target&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_03.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_03.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Looking over the Vampires, we've got to find ourselves an officer (because that's what the Spy can target) to destroy.  An Officer is any tile with a cost of 8 Soul Points or more.  You can recognize them easily on the gameboard as they've got the brass plate on the bottom of their tile.&lt;/p&gt;
+&lt;p&gt;That big, strong &lt;a href="https://game.grigoristones.com/compendium/tile?tileId=V010-Elite"&gt;Vampire Elite&lt;/a&gt; on the left of the board is sure scary with her Power of 7.  We're going to target her first.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Turn &lt;strong&gt;Two&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_04.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_04.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Zap, the &lt;a href="https://game.grigoristones.com/compendium/tile?tileId=V010-Elite"&gt;Vampire Elite&lt;/a&gt; is gone and the &lt;a href="https://game.grigoristones.com/compendium/tile?tileId=H001-Spy"&gt;Freemason Spy&lt;/a&gt; jumps up into our hand -- Just like the tile's ability stated.&lt;/p&gt;
+&lt;p&gt;Now, it's the Vampires' turn.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;A &lt;strong&gt;Soldier&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_05.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_05.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The Vampires are going to take a different opening since the Freemason Flag is blocked by so many tiles.  They're going to start with the &lt;a href="https://game.grigoristones.com/compendium/tile?tileId=V003-Soldier"&gt;Vampire Soldier&lt;/a&gt;.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Going for an &lt;strong&gt;Attack&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_06.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_06.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You'll notice the &lt;a href="https://game.grigoristones.com/compendium/tile?tileId=V003-Soldier"&gt;Vampire Soldier&lt;/a&gt; doesn't have any special abilities.  He's just a common, low-cost soldier.  Perfect for getting his hands dirty.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Selecting an Attack &lt;strong&gt;Target&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_07.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_07.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Since the Flag has to have at least one of its sides cleared for an attack, you'll notice how they've got to "dig" through three other tiles first.  The perfect job for their soldier.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;The &lt;strong&gt;Fight&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_08.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_08.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Our &lt;a href="https://game.grigoristones.com/compendium/tile?tileId=H002-Rookie"&gt;Freemason Rookie&lt;/a&gt; never knew what hit him!&lt;/p&gt;
+&lt;p&gt;And, now the &lt;a href="https://game.grigoristones.com/compendium/tile?tileId=V003-Soldier"&gt;Vampire Soldier&lt;/a&gt; goes  into their hand.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Turn &lt;strong&gt;Three&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_09.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_09.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We're down a Rookie, but still have a couple tiles defending our flag.  That, and the Vampires are down an Elite.  I'd say that was a pretty decent trade-off for our side.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Big &lt;strong&gt;Guns&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_10.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_10.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;While we're riding high, let's make use of one of our big guns, the awesome &lt;a href="https://game.grigoristones.com/compendium/tile?tileId=H006-Elite"&gt;Freemason E.L.I.T.E.&lt;/a&gt;.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Blowing Up the &lt;strong&gt;Inquisition&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_11.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_11.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We're going to take out their &lt;a href="https://game.grigoristones.com/compendium/tile?tileId=V004-Inquisitor"&gt;Vampire Inquisitor&lt;/a&gt;, a powerful tile with the ability to Detain (the detained tile cannot take any action or be targeted by any other tile) other tiles.  Even worse, their ability doesn't cause them to go into their owner's hand.&lt;/p&gt;
+&lt;p&gt;Let's blow him up!&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Whacked &lt;strong&gt;Him&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_12.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_12.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;He's taken care of now.  However, we've now got 2 tiles in our hand.  We can only hold 3 tiles total, so any additional tiles that would pop into our hand would simply be discarded.&lt;/p&gt;
+&lt;p&gt;We might want to take care of that next turn.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Turn &lt;strong&gt;Four&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_13.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_13.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;So far, we're crushing these Vampires.  Let's see what they're going to do.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;The &lt;strong&gt;Melkite&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_14.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_14.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I was afraid of that.  It looks like they're going to use the &lt;a href="https://game.grigoristones.com/compendium/tile?tileId=V011-Melkite"&gt;Vampire Melkite&lt;/a&gt; this turn.  I think we may be in for some trouble.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Getting &lt;strong&gt;Banished&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_15.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_15.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;See how the &lt;a href="https://game.grigoristones.com/compendium/tile?tileId=V011-Melkite"&gt;Vampire Melkite&lt;/a&gt; has the Banish ability.  Specifically, it says "Banish: Place any target tile in its owner's hand. This tile stays on the battlefield".&lt;/p&gt;
+&lt;p&gt;Which means, he's going to fill up our hand AND he's going to stay on the board.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Digging for the &lt;strong&gt;Flag&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_16.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_16.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;And, it looks like he's going to continue digging for our flag.  This could get ugly.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Goodbye &lt;strong&gt;Footpad&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_17.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_17.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Yep.  There goes our &lt;a href="https://game.grigoristones.com/compendium/tile?tileId=H010-Footpad"&gt;Freemason Footpad&lt;/a&gt;.  While not a strong tile, it was doing a fine job blocking our Flag.&lt;/p&gt;
+&lt;p&gt;And, yes, now our hand is full.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Turn &lt;strong&gt;Five&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_18.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_18.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Our turn now.  &lt;/p&gt;
+&lt;p&gt;The terrible thing is that the &lt;a href="https://game.grigoristones.com/compendium/tile?tileId=V011-Melkite"&gt;Vampire Melkite&lt;/a&gt; doesn't bounce up into their hand, so they can keep banishing our tiles and destroy them all if we don't clear out some space.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Loaded &lt;strong&gt;Hand&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_19.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_19.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Let's put one of these tiles down from our hand, so we can at least free up some room.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Placing the &lt;strong&gt;E.L.I.T.E.&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_20.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_20.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We just select our &lt;a href="https://game.grigoristones.com/compendium/tile?tileId=H006-Elite"&gt;Freemason E.L.I.T.E.&lt;/a&gt; and drop him back down on the gameboard.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Blocking the &lt;strong&gt;Melkite&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_21.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_21.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In fact, dropping him right down on top of that pesky &lt;a href="https://game.grigoristones.com/compendium/tile?tileId=V011-Melkite"&gt;Vampire Melkite&lt;/a&gt; seems like a pretty good plan to me.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Turn &lt;strong&gt;Six&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_22.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_22.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Whatcha got now, Vampires?  Huh?&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Getting a Better &lt;strong&gt;View&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_23.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_23.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Yup, that &lt;a href="https://game.grigoristones.com/compendium/tile?tileId=V011-Melkite"&gt;Vampire Melkite&lt;/a&gt; is now useless sitting underneath of our &lt;a href="https://game.grigoristones.com/compendium/tile?tileId=H006-Elite"&gt;Freemason E.L.I.T.E.&lt;/a&gt;.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Exposing the &lt;strong&gt;Flag&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_24.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_24.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ahh!&lt;/p&gt;
+&lt;p&gt;We forgot that they were digging at our Flag.  Now, things are getting real.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Goodbye &lt;strong&gt;Spy&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_25.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_25.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;At least they don't have any more usable officers.  That makes the loss of that &lt;a href="https://game.grigoristones.com/compendium/tile?tileId=H001-Spy"&gt;Freemason Spy&lt;/a&gt; a bit more tolerable.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Turn &lt;strong&gt;Seven&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_26.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_26.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We've got to protect our Flag.  That's the number one priority or else it's Game Over next turn.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Covering the &lt;strong&gt;Flag&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_27.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_27.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;What we'll do is drop a tile from our hand down on top of the Flag.  That will prevent it from being free AND our tile will be less likely to be blocked in.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;A Footpad Saves the &lt;strong&gt;Day&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_28.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_28.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In fact, let's put down the &lt;a href="https://game.grigoristones.com/compendium/tile?tileId=H010-Footpad"&gt;Freemason Footpad&lt;/a&gt;.  He won't survive an attack from their Soldier, but at least he can fend off their Spy.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Turn &lt;strong&gt;Eight&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_29.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_29.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Let's see what other tricks those pesky Vampires have up their sleeve.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Lots of &lt;strong&gt;Options&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_30.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_30.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Looks like the Vampires have lots of options.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;They could dig at our Flag some more with the &lt;a href="https://game.grigoristones.com/compendium/tile?tileId=V003-Soldier"&gt;Vampire Soldier&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;They could use their &lt;a href="https://game.grigoristones.com/compendium/tile?tileId=V001-Spy"&gt;Vampire Spy&lt;/a&gt; to take out our &lt;a href="https://game.grigoristones.com/compendium/tile?tileId=H006-Elite"&gt;Freemason E.L.I.T.E.&lt;/a&gt; and freeing up that Melkite again.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;They could place a tile from their hand and block in any of our soldiers in the bottom-right corner.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I think it's time for me to concentrate.  BRB.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;A Dozen or so Turns &lt;strong&gt;Later&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_31.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_31.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Okay, we've finally gotten them pinned down, but we had to sacrifice-play some of our &lt;a href="https://game.grigoristones.com/compendium/tile?tileId=H004-Soldier"&gt;Freemason Soldiers&lt;/a&gt; along the way.&lt;/p&gt;
+&lt;p&gt;It turns out, the key was our &lt;a href="https://game.grigoristones.com/compendium/tile?tileId=H009-Biologist"&gt;Freemason Biologist&lt;/a&gt; and her ability: "Cure: Target tile is cured and becomes a Human Rookie while on the battlefield. This tile goes into its owner's hand".  &lt;/p&gt;
+&lt;p&gt;That effectively removed one of their tiles, and added one to our side.  It represented a two-tile swing with one play.&lt;/p&gt;
+&lt;p&gt;Going in for the Flag-Capture now!&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Victory to the &lt;strong&gt;Freemasons&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;&lt;a href="/static/blogimages/how_to_play/htp_32.png" data-rel="prettyPhoto"&gt;
+     &lt;img src="/static/blogimages/how_to_play/htp_32.png" alt="" width="40%" class="pull-right"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;And, that's it.&lt;/p&gt;
+&lt;p&gt;It's not surprising that the Vampires scored the "Agile" Battle Aspect.  They kept pulling out near-victories seemingly out of nowhere.&lt;/p&gt;
+&lt;p&gt;This was fun!  We should do it again sometime!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Better yet, go download the game for free and try it out yourself!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://itunes.apple.com/us/app/grigori-stones/id741657894"&gt;&lt;img height="40" width="135" alt="Download today on the iOS App Store" src="/static/img/Download_on_the_App_Store_Badge_US-UK_135x40.png"&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="howto"></category><category term="gameplay"></category></entry></feed>
