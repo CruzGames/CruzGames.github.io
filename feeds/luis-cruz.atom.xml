@@ -1,5 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>The Grigori Stones Dev Blog</title><link href="http://blog.grigoristones.com/" rel="alternate"></link><link href="http://blog.grigoristones.com/feeds/luis-cruz.atom.xml" rel="self"></link><id>http://blog.grigoristones.com/</id><updated>2014-11-21T12:01:00-07:00</updated><entry><title>The One About How To Play</title><link href="http://blog.grigoristones.com/the-one-about-how-to-play.html" rel="alternate"></link><updated>2014-11-21T12:01:00-07:00</updated><author><name>Luis Cruz</name></author><id>tag:blog.grigoristones.com,2014-11-21:the-one-about-how-to-play.html</id><summary type="html">&lt;h2 class="title-divider"&gt;The &lt;strong&gt;Basics&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>The Grigori Stones Dev Blog</title><link href="http://blog.grigoristones.com/" rel="alternate"></link><link href="http://blog.grigoristones.com/feeds/luis-cruz.atom.xml" rel="self"></link><id>http://blog.grigoristones.com/</id><updated>2014-12-02T09:22:00-07:00</updated><entry><title>The One About In-App Purchasing</title><link href="http://blog.grigoristones.com/the-one-about-in-app-purchasing.html" rel="alternate"></link><updated>2014-12-02T09:22:00-07:00</updated><author><name>Luis Cruz</name></author><id>tag:blog.grigoristones.com,2014-12-02:the-one-about-in-app-purchasing.html</id><summary type="html">&lt;h2 class="title-divider"&gt;In-App Purchasing &lt;strong&gt;Confusion&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;It's been a couple weeks now since we launched and I have definitely heard the in-app purchasing (IAP) we have is confusing.&lt;/p&gt;
+&lt;p&gt;In our next release, I will certainly be changing the wording on it to help clarify how it works.  It appears that potential players think that you have to spend $40 just to unlock the campaign and get some tiles.  That's just not the case.  We've got several hours of free campaign gameplay in there plus as much pass-and-play multiplayer as you want.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;As an F2P designer, I can honestly say I HATE when games are free, but they make it so hard or impossible to play that you have to buy in-game currency.  That is an awful bait-and-switch and I won't have it.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;There are three cardinal rules (in my opinion) on free-to-play game design that must be followed.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;You must not enable "Pay for Power" in multiplayer games&lt;/li&gt;
+&lt;li&gt;You must not sell an unfinishable, crippled game&lt;/li&gt;
+&lt;li&gt;Any IAP should either enhance the player's experience or save the player time&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;So, I think the word "Shortcut" instead of "Unlock" might be the key there.&lt;/p&gt;
+&lt;h2 class="title-divider"&gt;How the IAP Actually &lt;strong&gt;Works&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;The IAP basically comes in two flavors: &lt;strong&gt;random tile packs&lt;/strong&gt; and &lt;strong&gt;campaign shortcuts&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;random tile packs&lt;/strong&gt; operate like standard CCG card packs, but with tiles.  In the most basic pack, you'll get three commons and one uncommon.  The uncommon having a 25% chance of being a rare.  From there, they differ in price-per-tile, commonality, and faction.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;campaign shortcuts&lt;/strong&gt; (previously called unlocks!) are really just ways to skip all the randomness, while skipping ahead in the campaign story to the harder stages.  With these unlocks, you get all the tiles earned normally during that campaign chapter, plus, you'll skip to the next campaign chapter.&lt;/p&gt;
+&lt;p&gt;But, as I stated in my 3 cardinal rules, you don't need to buy anything to play through the entire campaign while earning enough tiles to make full, playable tilesets.  In fact, you earn all the tiles (I've created so far) in the game by playing through the first 3 of the 6 available chapters in the campaign.&lt;/p&gt;
+&lt;h2 class="title-divider"&gt;What Tiles Do You &lt;strong&gt;Earn?&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h2&gt;
+
+&lt;p&gt;As to what tiles you actually earn while playing through the campaign (or buying a shortcut), I realized I don't actually list them anywhere.  We're going to remedy that.&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Chapter One: &lt;strong&gt;Betrayal&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;2 Freemason Spies&lt;br/&gt;
+3 Freemason Rookies&lt;br/&gt;
+2 Freemason Footpads&lt;br/&gt;
+2 Freemason Soldiers&lt;br/&gt;
+1 Freemason Warrior&lt;br/&gt;
+1 Freemason Sergeant&lt;br/&gt;
+1 Freemason E.L.I.T.E.&lt;br/&gt;
+1 Freemason Defender&lt;br/&gt;
+1 Freemason Biologist&lt;br/&gt;
+1 Freemason Spiker&lt;br/&gt;
+1 Freemason Commander&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;Freemason Count: 16&lt;br/&gt;
+Total Soul: 100&lt;br/&gt;
+Total Power: 54&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;2 Zombie Spies&lt;br/&gt;
+2 Zombie Rookies&lt;br/&gt;
+3 Zombie Footpads&lt;br/&gt;
+3 Zombie Soldiers&lt;br/&gt;
+1 Zombie Warrior&lt;br/&gt;
+1 Zombie Sergeant&lt;br/&gt;
+1 Zombie Elite&lt;br/&gt;
+1 Zombie Lesionier&lt;br/&gt;
+1 Zombie Zero&lt;br/&gt;
+1 Zombie Nurse&lt;br/&gt;
+1 Zombie Torso&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;Zombie Count: 17&lt;br/&gt;
+Total Soul: 99&lt;br/&gt;
+Total Power: 61&lt;br/&gt;&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Chapter Two: &lt;strong&gt;Retribution&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;2 Vampire Spies&lt;br/&gt;
+1 Vampire Rookie&lt;br/&gt;
+4 Vampire Footpads&lt;br/&gt;
+3 Vampire Soldiers&lt;br/&gt;
+1 Vampire Warrior&lt;br/&gt;
+1 Vampire Sergeant&lt;br/&gt;
+1 Vampire Elite&lt;br/&gt;
+1 Vampire Martyr&lt;br/&gt;
+1 Vampire Transporter&lt;br/&gt;
+1 Vampire Melkite&lt;br/&gt;
+1 Vampire Inquisitor&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;Vampire Count: 17&lt;br/&gt;
+Total Soul: 100&lt;br/&gt;
+Total Power: 63&lt;br/&gt;&lt;/p&gt;
+&lt;h6 class="title-divider"&gt;Chapter Three: &lt;strong&gt;Misunderstandings&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h6&gt;
+
+&lt;p&gt;2 Werewolf Spies&lt;br/&gt;
+3 Werewolf Rookies&lt;br/&gt;
+3 Werewolf Footpads&lt;br/&gt;
+2 Werewolf Soldiers&lt;br/&gt;
+1 Werewolf Warrior&lt;br/&gt;
+1 Werewolf Sergeant&lt;br/&gt;
+1 Werewolf Elite&lt;br/&gt;
+1 Werewolf Lesionier&lt;br/&gt;
+1 Werewolf Zero&lt;br/&gt;
+1 Werewolf Nurse&lt;br/&gt;
+1 Werewolf Torso&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;Werewolf Count: 17&lt;br/&gt;
+Total Soul: 100&lt;br/&gt;
+Total Power: 60&lt;br/&gt;&lt;/p&gt;
+&lt;hr/&gt;
+
+&lt;p&gt;So, hopefully this clears up any questions remaining about our IAP and helps everyone to see that, yes, there really are free games out there that are honestly free.  If, alone the way, you'd like to enhance your Grigori Stones experience (you'd just like to help an indie dev out) we're enabling you to spend a bit of money to do that.&lt;/p&gt;
+&lt;p&gt;Why don't you give it a try?  Play through The Grigori Stones campaign and tell me what you think!&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://itunes.apple.com/us/app/grigori-stones/id741657894"&gt;&lt;img height="40" width="135" alt="Download today on the iOS App Store" src="/static/img/Download_on_the_App_Store_Badge_US-UK_135x40.png"&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="f2p"></category></entry><entry><title>The One About How To Play</title><link href="http://blog.grigoristones.com/the-one-about-how-to-play.html" rel="alternate"></link><updated>2014-11-21T12:01:00-07:00</updated><author><name>Luis Cruz</name></author><id>tag:blog.grigoristones.com,2014-11-21:the-one-about-how-to-play.html</id><summary type="html">&lt;h2 class="title-divider"&gt;The &lt;strong&gt;Basics&lt;/strong&gt;&lt;span&gt;&lt;/span&gt;&lt;/h2&gt;
 
 &lt;p&gt;The basic gameplay is very simple.  Each player just performs one of their 4 available actions (Move, Attack, Use Ability, or Place) for one tile each turn.  There are no phases or other complicated mechanics in the game.&lt;/p&gt;
 &lt;p&gt;In fact, the basic flow of gameplay goes like this:&lt;/p&gt;
